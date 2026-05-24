@@ -1,0 +1,11 @@
+﻿{
+  "permissions": {
+    "allow": [
+      "Write(C:\\Users\\Lenovo\\.claude\\commands\\*)",
+      "Write(C:\\Users\\Lenovo\\.claude\\skills\\*)",
+      "Edit(C:\\Users\\Lenovo\\.claude\\commands\\*)",
+      "Edit(C:\\Users\\Lenovo\\.claude\\skills\\*)",
+      "Bash(mkdir*)"
+    ]
+  }
+}
