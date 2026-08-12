@@ -19,7 +19,6 @@ ZEN es Keni: mi personaje artista / scuba diver / skydiver / racing driver.
 
 ## Viajes
 - [[Viaje a Italia]]
-- [[Cataleya]]
 
 ## Todas las notas de esta rama (automático, requiere plugin Dataview)
 ```dataview

@@ -1,15 +1,14 @@
 ---
 tags: [ham, ia, proyecto]
 rama: HAM
-estado: activo
+estado: pausado
 ---
 
 # 🤖 AI Master Models
 
-Proyecto de dominar/usar modelos de IA para Sensi Home. Lo moví aquí (antes estaba en ZEN) porque encaja más como herramienta de negocio. Ver [[Supuestos]] si esto no es correcto.
+Crear modelos con IA para promover Cataleya. No es prioridad a corto plazo (Cataleya tampoco lo es), así que esto queda en pausa por ahora.
 
 **Objetivo:**
-**Progreso:**
-**Próximos pasos:**
+**Próximos pasos:** (ninguno por ahora, retomar cuando Cataleya avance)
 
 ⬅️ Volver a [[HAM - Indice]]
