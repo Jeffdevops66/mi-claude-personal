@@ -1,6 +1,8 @@
 ---
 tags: [indice, ham]
 rama: HAM
+cssclasses:
+  - ham
 ---
 
 # 🏠 HAM — Sensi Home

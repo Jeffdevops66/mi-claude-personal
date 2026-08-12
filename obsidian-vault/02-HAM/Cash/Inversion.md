@@ -2,6 +2,8 @@
 tags: [ham, cash]
 rama: HAM
 estado: activo
+cssclasses:
+  - ham
 ---
 
 # 📈 Inversion

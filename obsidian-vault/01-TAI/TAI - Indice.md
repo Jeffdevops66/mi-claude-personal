@@ -1,6 +1,8 @@
 ---
 tags: [indice, tai]
 rama: TAI
+cssclasses:
+  - tai
 ---
 
 # 💪 TAI — Hábitos que suman a mí como humano

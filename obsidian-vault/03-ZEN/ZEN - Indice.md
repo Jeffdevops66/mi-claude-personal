@@ -1,6 +1,8 @@
 ---
 tags: [indice, zen]
 rama: ZEN
+cssclasses:
+  - zen
 ---
 
 # 🎭 ZEN — Keni

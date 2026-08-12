@@ -2,6 +2,8 @@
 tags: [zen, keni, arte]
 rama: ZEN
 estado: activo
+cssclasses:
+  - zen
 ---
 
 # 🎵 Music — Keni

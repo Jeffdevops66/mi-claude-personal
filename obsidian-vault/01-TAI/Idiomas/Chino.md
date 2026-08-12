@@ -2,6 +2,8 @@
 tags: [tai, idioma]
 rama: TAI
 estado: activo
+cssclasses:
+  - tai
 ---
 
 # 🇨🇳 Chino

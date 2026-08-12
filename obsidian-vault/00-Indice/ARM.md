@@ -1,5 +1,7 @@
 ---
 tags: [indice, arm]
+cssclasses:
+  - arm
 ---
 
 # ☯️ ARM — Armonía

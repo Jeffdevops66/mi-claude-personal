@@ -2,6 +2,8 @@
 tags: [ham, ia, proyecto]
 rama: HAM
 estado: pausado
+cssclasses:
+  - ham
 ---
 
 # 🤖 AI Master Models

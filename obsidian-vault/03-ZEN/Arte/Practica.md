@@ -2,6 +2,8 @@
 tags: [zen, keni, arte, habito]
 rama: ZEN
 estado: activo
+cssclasses:
+  - zen
 ---
 
 # 🎭 Práctica — Keni

@@ -2,6 +2,8 @@
 tags: [ham, work]
 rama: HAM
 estado: activo
+cssclasses:
+  - ham
 ---
 
 # 📦 Sensi Catalogo

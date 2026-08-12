@@ -19,6 +19,14 @@ Abre la nota `00-Indice/ARM.md` — desde ahí puedes navegar a todo.
 ## Revisa mis supuestos
 Abre `00-Indice/Supuestos.md` — ahí anoté las decisiones que tomé sin preguntarte primero.
 
+## Colores (tu código personal, ya aplicado)
+Ya viene configurado para verse igual que tu mapa a mano: ARM morado, TAI azul, HAM naranja, ZEN verde, CEO amarillo. Se aplica en 3 lugares:
+1. Carpetas en el explorador de archivos
+2. Título de cada nota y sus tags (#tai, #ham, #zen, #ceo)
+3. **Graph view** (el ícono de la red 🕸️ en la barra izquierda) — ábrelo para ver las conexiones entre notas coloreadas por rama
+
+Esto ya está activado (el snippet `colores-ARM` viene encendido). Si por alguna razón no ves los colores al abrir el vault, ve a Settings ⚙️ → Appearance → CSS snippets, y activa el switch de `colores-ARM`.
+
 ## Plugins recomendados (instalar dentro de Obsidian)
 Ve a Settings ⚙️ → Community plugins → Browse, y busca e instala:
 1. **Dataview** — hace que las listas automáticas de cada índice de rama funcionen

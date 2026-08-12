@@ -1,6 +1,8 @@
 ---
 tags: [indice, ceo]
 rama: CEO
+cssclasses:
+  - ceo
 ---
 
 # 👔 CEO — Zamrud

@@ -2,6 +2,8 @@
 tags: [tai, habito]
 rama: TAI
 estado: activo
+cssclasses:
+  - tai
 ---
 
 # ✅ Hábitos — TAI

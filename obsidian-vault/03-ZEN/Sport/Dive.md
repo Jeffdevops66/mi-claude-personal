@@ -2,6 +2,8 @@
 tags: [zen, keni, sport]
 rama: ZEN
 estado: activo
+cssclasses:
+  - zen
 ---
 
 # 🤿 Dive — Scuba diver

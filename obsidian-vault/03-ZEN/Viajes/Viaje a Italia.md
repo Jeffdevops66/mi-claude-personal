@@ -2,6 +2,8 @@
 tags: [zen, viaje]
 rama: ZEN
 estado: activo
+cssclasses:
+  - zen
 ---
 
 # 🇮🇹 Viaje a Italia

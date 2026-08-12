@@ -2,6 +2,8 @@
 tags: [ceo, zamrud, contenido]
 rama: CEO
 estado: activo
+cssclasses:
+  - ceo
 ---
 
 # 🌲 Foreless — Zamrud

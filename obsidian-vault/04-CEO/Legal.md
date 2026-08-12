@@ -2,6 +2,8 @@
 tags: [ceo, zamrud, legal]
 rama: CEO
 estado: activo
+cssclasses:
+  - ceo
 ---
 
 # ⚖️ Legal — Zamrud
