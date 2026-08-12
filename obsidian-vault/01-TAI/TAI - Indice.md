@@ -3,9 +3,9 @@ tags: [indice, tai]
 rama: TAI
 ---
 
-# 🗣️ TAI — Aprendizaje
+# 💪 TAI — Hábitos que suman a mí como humano
 
-Rama de idiomas y hábitos de aprendizaje.
+Todo lo que practico para crecer como persona: idiomas y cuerpo/ejercicio.
 
 ## Idiomas
 - [[Chino]]
@@ -14,7 +14,10 @@ Rama de idiomas y hábitos de aprendizaje.
 - [[Ruso]]
 - [[Mandarin]]
 
-## Hábitos
+## Ejercicio
+- [[Ejercicio]]
+
+## Seguimiento general
 - [[Habitos - TAI]]
 
 ## Todas las notas de esta rama (automático, requiere plugin Dataview)

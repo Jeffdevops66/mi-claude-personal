@@ -1,10 +1,10 @@
 ---
-tags: [ceo, contenido]
+tags: [ceo, zamrud, contenido]
 rama: CEO
 estado: activo
 ---
 
-# 🌲 Foreless
+# 🌲 Foreless — Zamrud
 
 **Objetivo:**
 **Estado actual:**

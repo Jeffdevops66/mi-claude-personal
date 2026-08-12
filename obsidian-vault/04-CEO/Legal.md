@@ -1,12 +1,11 @@
 ---
-tags: [ceo, zamrud]
+tags: [ceo, zamrud, legal]
 rama: CEO
 estado: activo
 ---
 
-# 💰 Zamrud - Cash
+# ⚖️ Legal — Zamrud
 
-**Objetivo:**
 **Estado actual:**
 **Próximos pasos:**
 

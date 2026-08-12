@@ -3,17 +3,18 @@ tags: [indice, ham]
 rama: HAM
 ---
 
-# 💼 HAM — Trabajo y Finanzas
+# 🏠 HAM — Sensi Home
 
-Rama de trabajo, herramientas de negocio y dinero.
+HAM es Sensi, mi negocio (Sensi Home). Aquí vive todo lo operativo y financiero de esa empresa.
 
-## Work
+## Work (herramientas y operación)
 - [[HubSpot]]
 - [[Zapier]]
 - [[Sensi Catalogo]]
 - [[Sensi Calendar]]
+- [[AI Master Models]]
 
-## Cash
+## Cash (dinero de Sensi)
 - [[Seguros]]
 - [[Inversion]]
 

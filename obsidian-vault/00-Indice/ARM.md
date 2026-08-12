@@ -2,14 +2,14 @@
 tags: [indice, arm]
 ---
 
-# 🧭 ARM — Mapa Central
+# ☯️ ARM — Armonía
 
-Este es el punto de partida de todo mi sistema. Desde aquí se llega a las 4 grandes ramas de mi vida y proyectos.
+ARM es armonía: la plenitud de mi proyecto de vida. Las 4 ramas son las áreas que, juntas, me la dan.
 
 ## Ramas
-- [[TAI - Indice|🗣️ TAI]] — Aprendizaje: idiomas y hábitos
-- [[HAM - Indice|💼 HAM]] — Trabajo y finanzas
-- [[ZEN - Indice|🧘 ZEN]] — Vida personal y bienestar
-- [[CEO - Indice|👔 CEO]] — Mi rol como director de negocio
+- [[TAI - Indice|💪 TAI]] — Hábitos que suman a mí como humano (idiomas, ejercicio)
+- [[HAM - Indice|🏠 HAM]] — Sensi Home, mi negocio
+- [[ZEN - Indice|🎭 ZEN]] — Keni: mi personaje artista / scuba diver / skydiver / racing driver
+- [[CEO - Indice|👔 CEO]] — Zamrud, todo lo relacionado a mi rol de director
 
-> Ver [[Supuestos]] para las decisiones que tomé al armar esta estructura — necesitan tu confirmación.
+> Ver [[Supuestos]] — quedan un par de detalles finos por confirmar.

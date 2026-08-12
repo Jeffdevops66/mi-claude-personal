@@ -1,11 +1,11 @@
 ---
-tags: [zen]
+tags: [zen, keni]
 rama: ZEN
 estado: por-confirmar
 ---
 
 # 🌸 Cataleya
 
-No tengo claro qué es esta nota (¿lugar, mascota, proyecto?). Ver [[Supuestos]] — necesito que me confirmes de qué se trata para ubicarla mejor.
+Todavía no sé exactamente qué es dentro del universo de Keni (¿un lugar, un evento, un alter ego dentro del personaje?). Ver [[Supuestos]] — confírmamelo cuando puedas.
 
 ⬅️ Volver a [[ZEN - Indice]]

@@ -1,10 +1,12 @@
 ---
-tags: [zen, keni]
+tags: [zen, keni, arte]
 rama: ZEN
 estado: activo
 ---
 
-# 🎵 Keni - Music
+# 🎵 Music — Keni
+
+Proyectos musicales/artísticos de Keni.
 
 **Notas:**
 **Próximos pasos:**

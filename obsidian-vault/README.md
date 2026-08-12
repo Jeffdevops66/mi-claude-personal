@@ -1,6 +1,11 @@
 # 🧠 Mi Vault de Obsidian (ARM)
 
-Este vault vive dentro de este repositorio para que nunca se pierda. Está organizado siguiendo mi mapa mental: ARM → TAI, HAM, ZEN, CEO.
+Este vault vive dentro de este repositorio para que nunca se pierda. Está organizado siguiendo mi mapa mental: **ARM** (armonía / plenitud de mi proyecto de vida) se apoya en 4 ramas:
+
+- **TAI** — hábitos que suman a mí como humano (idiomas, ejercicio)
+- **HAM** — Sensi Home, mi negocio
+- **ZEN** — Keni, mi personaje artista / scuba diver / skydiver / racing driver
+- **CEO** — Zamrud, mi rol como director
 
 ## Cómo abrirlo en Obsidian (en tu PC)
 1. Descarga este repositorio a tu PC con GitHub Desktop (clona `mi-claude-personal`, rama `claude/obsidian-google-chrome-sync-oqjuaj`)

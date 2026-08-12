@@ -1,13 +1,14 @@
 ---
-tags: [zen, sport]
+tags: [zen, keni, sport]
 rama: ZEN
 estado: activo
 ---
 
-# 🏎️ Kart
+# 🏎️ Kart — Racing driver
 
-**Objetivo:**
-**Progreso:**
-**Próximos pasos:**
+Keni como racing driver.
+
+**Próxima carrera/meta:**
+**Notas:**
 
 ⬅️ Volver a [[ZEN - Indice]]

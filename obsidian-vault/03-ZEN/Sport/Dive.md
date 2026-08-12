@@ -1,13 +1,14 @@
 ---
-tags: [zen, sport]
+tags: [zen, keni, sport]
 rama: ZEN
 estado: activo
 ---
 
-# 🤿 Dive
+# 🤿 Dive — Scuba diver
 
-**Objetivo:**
-**Progreso:**
-**Próximos pasos:**
+Keni como scuba diver.
+
+**Próxima inmersión/meta:**
+**Notas:**
 
 ⬅️ Volver a [[ZEN - Indice]]

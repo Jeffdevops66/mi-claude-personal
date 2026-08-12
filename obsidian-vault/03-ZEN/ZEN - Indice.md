@@ -3,26 +3,23 @@ tags: [indice, zen]
 rama: ZEN
 ---
 
-# 🧘 ZEN — Vida personal y bienestar
+# 🎭 ZEN — Keni
 
-Rama de vida personal, deporte, viajes y proyectos propios.
+ZEN es Keni: mi personaje artista / scuba diver / skydiver / racing driver.
 
-## Keni
-- [[Keni - Free]]
-- [[Keni - Music]]
-- [[Habitos - Keni]]
+## Arte
+- [[Free]]
+- [[Music]]
+- [[Practica]]
 
-## Sport
-- [[Sky]]
-- [[Dive]]
-- [[Kart]]
+## Sport (identidad extrema de Keni)
+- [[Sky]] — skydiver
+- [[Dive]] — scuba diver
+- [[Kart]] — racing driver
 
 ## Viajes
 - [[Viaje a Italia]]
 - [[Cataleya]]
-
-## Proyectos
-- [[AI Master Models]]
 
 ## Todas las notas de esta rama (automático, requiere plugin Dataview)
 ```dataview

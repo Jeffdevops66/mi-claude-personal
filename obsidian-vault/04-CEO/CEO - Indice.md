@@ -3,13 +3,13 @@ tags: [indice, ceo]
 rama: CEO
 ---
 
-# 👔 CEO — Mi rol como director de negocio
+# 👔 CEO — Zamrud
 
-Rama de negocio principal: Zamrud y creación de contenido.
+CEO es todo lo que tiene que ver con Zamrud: mi rol como director de ese negocio.
 
-## Zamrud
-- [[Zamrud - Cash]]
-- [[Zamrud - Legal]]
+## Cash y Legal
+- [[Cash]]
+- [[Legal]]
 
 ## Contenido
 - [[Shorts]]

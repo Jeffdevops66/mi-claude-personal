@@ -1,10 +1,10 @@
 ---
-tags: [ceo, contenido]
+tags: [ceo, zamrud, contenido]
 rama: CEO
 estado: activo
 ---
 
-# 🎬 Shorts
+# 🎬 Shorts — Zamrud
 
 **Objetivo:**
 **Estado actual:**

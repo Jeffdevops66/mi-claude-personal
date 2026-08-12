@@ -1,13 +1,14 @@
 ---
-tags: [zen, sport]
+tags: [zen, keni, sport]
 rama: ZEN
 estado: activo
 ---
 
-# 🪂 Sky
+# 🪂 Sky — Skydiver
 
-**Objetivo:**
-**Progreso:**
-**Próximos pasos:**
+Keni como skydiver.
+
+**Próximo salto/meta:**
+**Notas:**
 
 ⬅️ Volver a [[ZEN - Indice]]
