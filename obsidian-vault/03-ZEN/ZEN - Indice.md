@@ -15,12 +15,12 @@ ZEN es Keni: mi personaje artista / scuba diver / skydiver / racing driver.
 - [[Practica]]
 
 ## Sport (identidad extrema de Keni)
-- [[Sky]] — skydiver
-- [[Dive]] — scuba diver
+- [[Sky]] — skydiver (pausado)
+- [[Dive]] — scuba diver (foco actual: Dive Master PADI)
 - [[Kart]] — racing driver
 
 ## Viajes
-- [[Viaje a Italia]]
+- [[Viaje a Europa]]
 
 ## Todas las notas de esta rama (automático, requiere plugin Dataview)
 ```dataview

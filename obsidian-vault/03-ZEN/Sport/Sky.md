@@ -1,14 +1,14 @@
 ---
 tags: [zen, keni, sport]
 rama: ZEN
-estado: activo
+estado: pausado
 cssclasses:
   - zen
 ---
 
 # 🪂 Sky — Skydiver
 
-Keni como skydiver.
+Pausado por ahora — foco completo está en [[Dive]] (buceo PADI).
 
 **Próximo salto/meta:**
 **Notas:**

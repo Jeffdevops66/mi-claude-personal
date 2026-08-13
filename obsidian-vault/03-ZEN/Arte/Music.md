@@ -8,7 +8,7 @@ cssclasses:
 
 # 🎵 Music — Keni
 
-Proyectos musicales/artísticos de Keni.
+Canciones que hago como Keni para Zamrud u otros proyectos, colaborando con otros artistas.
 
 **Notas:**
 **Próximos pasos:**

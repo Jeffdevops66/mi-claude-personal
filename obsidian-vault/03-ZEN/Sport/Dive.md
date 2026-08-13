@@ -8,8 +8,9 @@ cssclasses:
 
 # 🤿 Dive — Scuba diver
 
-Keni como scuba diver.
+Foco completo ahora mismo: inmersiones PADI, camino a Dive Master PADI. Por esto [[Sky]] quedó en pausa.
 
+**Objetivo:** Dive Master PADI
 **Próxima inmersión/meta:**
 **Notas:**
 

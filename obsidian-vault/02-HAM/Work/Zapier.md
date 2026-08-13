@@ -1,7 +1,7 @@
 ---
 tags: [ham, work]
 rama: HAM
-estado: inactivo
+estado: activo
 cssclasses:
   - ham
 ---
@@ -9,7 +9,7 @@ cssclasses:
 # ⚡ Zapier
 
 **Objetivo:**
-**Estado actual:** no lo estoy usando actualmente (confirmado)
+**Estado actual:** activo — importante para continuar en mi trabajo actual en Sensi
 **Próximos pasos:**
 
 ⬅️ Volver a [[HAM - Indice]]

@@ -8,9 +8,9 @@ cssclasses:
 
 # 🎈 Free — Keni
 
-Lado libre/creativo de Keni.
+Freestyle: seguir mejorando nivel de improvisación, métricas, ritmos y rimas.
 
-**Notas:**
+**Objetivo:** subir nivel de improvisación (métricas, ritmos, rimas)
 **Próximos pasos:**
 
 ⬅️ Volver a [[ZEN - Indice]]

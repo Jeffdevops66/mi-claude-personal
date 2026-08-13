@@ -6,7 +6,7 @@ cssclasses:
   - ham
 ---
 
-# 📦 Sensi Catalogo
+# 🛒 WooCommerce
 
 **Objetivo:**
 **Estado actual:** activo — importante para continuar en mi trabajo actual en Sensi

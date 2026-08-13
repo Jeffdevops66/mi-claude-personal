@@ -17,6 +17,9 @@ CEO es todo lo que tiene que ver con Zamrud: mi rol como director de ese negocio
 - [[Shorts]]
 - [[Foreless]]
 
+## Productos
+- [[Ropa]] — línea de ropa, proyecto a largo plazo, se paga sola con la monetización de Zamrud
+
 ## Marketing
 - [[AI Master Models]] — modelos con IA para publicidad de producto (ropa, Zamrud, u otros)
 
