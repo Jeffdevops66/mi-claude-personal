@@ -37,8 +37,30 @@ Ve a Settings ⚙️ → Community plugins → Browse, y busca e instala:
 
 Después de instalar cada uno, dale **Enable**.
 
-## Plan para el celular (más adelante, no hacerlo todavía)
-Cuando el vault ya esté maduro:
-1. Instala el plugin **Obsidian Git** en la app de Obsidian del celular (Settings → Community plugins → Browse → "Git")
-2. En la configuración del plugin, usa "Clone an existing remote repo"
-3. Pega la URL del repositorio con tu token de acceso (se explica en el paso 2 cuando llegue el momento)
+## Cómo hacer que tus notas se conecten solas
+No existe magia 100% automática, pero Obsidian te ayuda mucho:
+1. **Wikilinks `[[así]]`** — cuando escribes `[[` te aparece una lista de notas para elegir. Es la forma principal de conectar dos notas.
+2. **Unlinked mentions (automático)** — si escribes el nombre de una nota existente (ej. "Ingles") como texto normal, sin corchetes, Obsidian lo detecta solo y te lo muestra al final de la nota bajo **"Unlinked mentions"** con un botón para convertirlo en link con un clic.
+3. **Tags (`#tai`, `#ham`, `#zen`, `#ceo`) + Dataview** — cada nota índice (ej. `TAI - Indice.md`) tiene una lista automática que junta TODAS las notas con ese tag, sin que tengas que enlazarlas a mano. Si creas una nota nueva y le pones `rama: TAI` y el tag `tai` en su encabezado, aparece sola en la lista.
+4. **Graph view** 🕸️ — el ícono de red en la barra lateral te muestra el mapa visual de todas las conexiones, coloreado por rama.
+
+**Regla simple para cuando escribas notas nuevas:** copia el encabezado (`tags`, `rama`, `cssclasses`) de una nota parecida, y en el texto menciona con `[[ ]]` cualquier otra nota relacionada (persona, hábito, proyecto). Eso es lo que arma la telaraña de conexiones.
+
+## Cómo vincularlo a tu celular (Obsidian Git)
+1. Instala la app **Obsidian** en tu celular (App Store / Play Store)
+2. Dentro de Obsidian → Settings ⚙️ → Community plugins → Browse → busca **"Git"** (de Vinzent03) → instala y activa
+3. Necesitas un "token" de GitHub (es como una llave para que tu celular pueda leer el repositorio):
+   - En tu PC, entra a: `https://github.com/settings/tokens`
+   - Clic en **"Generate new token"** → **"Generate new token (classic)"**
+   - Dale un nombre, ej: `obsidian-celular`
+   - Marca solo el permiso **`repo`**
+   - Clic en **"Generate token"** y **copia el token ya** (solo se muestra una vez)
+4. En el celular, abre el plugin Git (icono de nube/git en la barra lateral, o Settings → Community plugins → Git → opciones) y elige **"Clone an existing remote repo"**
+5. Pega esta URL, reemplazando `TU_TOKEN` por el token que copiaste:
+   `https://TU_TOKEN@github.com/Jeffdevops66/mi-claude-personal.git`
+6. Rama a usar: `claude/obsidian-google-chrome-sync-oqjuaj`
+7. Cuando termine de clonar, abre la carpeta `obsidian-vault` como vault (igual que en el PC)
+
+**Uso diario en el celular:** el plugin Git tiene un botón para **"Pull"** (traer lo nuevo) y **"Commit and Sync"** (subir lo que escribiste). Puedes configurarlo en Settings del plugin para que lo haga automático cada cierto tiempo (`Auto pull/push interval`).
+
+⚠️ Guarda el token en un lugar seguro (ej. tu gestor de contraseñas) — quien lo tenga puede escribir en tu repositorio.
