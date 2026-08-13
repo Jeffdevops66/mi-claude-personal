@@ -12,6 +12,7 @@ tags: [supuestos, meta]
 - **TAI** = tus hábitos que suman como humano (idiomas, ejercicio, meditación, journaling) — ya poblado con tu rutina real
 - **Sensi Calendar** — todavía no existe, es algo que quieres crear: un calendario semanal para revisar cada herramienta un día distinto, y así liberar tiempo para invertir en CEO/Zamrud
 - Corregí "Foreless" → **Faceless** (tipo de contenido, no tenía que ver con bosques — error mío de tipeo)
+- **Journaling** es a mano a propósito (no digital) — entrena la escritura y te desconecta de pantallas. El Diario digital (`05-Diario`) es opcional y separado, no lo reemplaza.
 
 ## ❓ Todavía por confirmar
 1. Las notas "Done..." de tu celular (ej. "Done CEO Web Zamrud") no las recreé, parecen tareas completadas. Si quieres, las agrego como un log histórico.

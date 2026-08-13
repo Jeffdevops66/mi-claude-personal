@@ -10,7 +10,7 @@ cssclasses:
 
 Canciones que hago como Keni para Zamrud u otros proyectos, colaborando con otros artistas.
 
-**Origen:** todo empezó con Zamrud apoyando a Keni como artista — el mismo espíritu que hoy es [[Faceless]] (CEO), apoyar el arte de otros.
+**Origen:** todo empezó con Zamrud apoyando a Keni como un tercero de la empresa — el mismo espíritu que hoy es [[Faceless]] (CEO), apoyar el arte de otros.
 **Notas:** ya hay varias canciones publicadas en Zamrud
 **Próximos pasos:**
 

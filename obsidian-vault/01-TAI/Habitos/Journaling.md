@@ -11,7 +11,7 @@ cssclasses:
 **Frecuencia:** lunes a viernes, por la tarde al cerrar el día laboral
 **Racha actual:** ver [[Habitos - TAI]] — habit tracker físico, etapa "JEF 3.0"
 
-En cuaderno físico (no en Obsidian). Descargo lo que pasó en el día:
+En cuaderno físico a propósito (no en Obsidian) — es para entrenar la habilidad de escribir a mano y desconectarme de pantallas. Descargo lo que pasó en el día:
 - Agradecimientos
 - Cosas por mejorar
 
