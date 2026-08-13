@@ -15,7 +15,7 @@ Todas activas — importantes para continuar en mi trabajo actual en Sensi.
 - [[Zapier]]
 - [[Sensi Catalogo]]
 - [[WooCommerce]]
-- [[Sensi Calendar]] — sin usar por ahora
+- [[Sensi Calendar]] — por crear (calendario de revisión semanal, para liberar tiempo hacia CEO)
 
 ## Cash (dinero)
 - [[Seguimiento]] — débitos e ingresos del negocio

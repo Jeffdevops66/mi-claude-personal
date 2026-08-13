@@ -8,6 +8,8 @@ cssclasses:
 
 # 💰 Cash — Zamrud
 
+Manejo del dinero que ingresa a Zamrud y cómo lo invertimos.
+
 **Estado actual:**
 **Próximos pasos:**
 

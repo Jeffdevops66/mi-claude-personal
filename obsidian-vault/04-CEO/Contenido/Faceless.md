@@ -6,7 +6,9 @@ cssclasses:
   - ceo
 ---
 
-# 🌲 Foreless — Zamrud
+# 🎭 Faceless — Zamrud
+
+Contenido faceless (sin mostrar cara) — uno de los tipos de contenido que quiero para Zamrud.
 
 **Objetivo:**
 **Estado actual:**
