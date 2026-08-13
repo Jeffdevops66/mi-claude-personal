@@ -7,18 +7,17 @@ cssclasses:
 
 # 🏠 HAM — Sensi Home
 
-HAM es Sensi, mi negocio (Sensi Home). Aquí vive todo lo operativo y financiero de esa empresa.
+HAM es Sensi, mi negocio (Sensi Home). Es mi único ingreso por ahora — con esa plata financio TAI, ZEN y CEO mientras se monetizan (ver [[Seguimiento]]).
 
 ## Work (herramientas y operación)
-- [[HubSpot]]
-- [[Zapier]]
-- [[Sensi Catalogo]]
-- [[Sensi Calendar]]
-- [[AI Master Models]]
+- [[HubSpot]] — en uso
+- [[Zapier]] — sin usar por ahora
+- [[Sensi Catalogo]] — sin usar por ahora
+- [[Sensi Calendar]] — sin usar por ahora
 
 ## Cash (dinero de Sensi)
-- [[Seguros]]
-- [[Inversion]]
+- [[Seguimiento]]
+- [[Inversion]] — pausada
 
 ## Todas las notas de esta rama (automático, requiere plugin Dataview)
 ```dataview

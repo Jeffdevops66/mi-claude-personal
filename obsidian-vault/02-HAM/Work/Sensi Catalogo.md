@@ -1,7 +1,7 @@
 ---
 tags: [ham, work]
 rama: HAM
-estado: activo
+estado: inactivo
 cssclasses:
   - ham
 ---
@@ -9,7 +9,7 @@ cssclasses:
 # 📦 Sensi Catalogo
 
 **Objetivo:**
-**Estado actual:**
+**Estado actual:** no lo estoy usando actualmente (confirmado)
 **Próximos pasos:**
 
 ⬅️ Volver a [[HAM - Indice]]
