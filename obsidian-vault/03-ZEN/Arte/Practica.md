@@ -10,7 +10,9 @@ cssclasses:
 
 Seguimiento de práctica artística/rehearsal para mantener el personaje Keni en forma.
 
-**Frecuencia:**
-**Racha actual:**
+**Frecuencia:** diaria — espacio fijo cada día para improvisar y sacar temas nuevos
+**Racha actual:** sin conteo numérico, es un hábito diario ya integrado
+
+Alimenta directamente a [[Free]] (freestyle/improvisación) y a [[Music]] (canciones nuevas).
 
 ⬅️ Volver a [[ZEN - Indice]]

@@ -9,7 +9,7 @@ cssclasses:
 # 📓 Journaling
 
 **Frecuencia:** lunes a viernes, por la tarde al cerrar el día laboral
-**Racha actual:**
+**Racha actual:** ver [[Habitos - TAI]] — habit tracker físico, etapa "JEF 3.0"
 
 En cuaderno físico (no en Obsidian). Descargo lo que pasó en el día:
 - Agradecimientos
