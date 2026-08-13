@@ -7,17 +7,18 @@ cssclasses:
 
 # 💪 TAI — Hábitos que suman a mí como humano
 
-Todo lo que practico para crecer como persona: idiomas y cuerpo/ejercicio.
+Todo lo que practico para crecer como persona: idiomas y cuerpo/ejercicio. Rutina de lunes a viernes — fin de semana libre de KPI.
 
 ## Idiomas
-- [[Chino]]
 - [[Ingles]]
 - [[Italiano]]
 - [[Ruso]]
-- [[Mandarin]]
+- [[Chino]]
 
 ## Ejercicio
 - [[Ejercicio]]
+- [[Meditacion]]
+- [[Journaling]]
 
 ## Seguimiento general
 - [[Habitos - TAI]]
