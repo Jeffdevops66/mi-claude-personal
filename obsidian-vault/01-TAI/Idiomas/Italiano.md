@@ -8,7 +8,8 @@ cssclasses:
 
 # 🇮🇹 Italiano
 
-**Objetivo:** nivel conversacional
+**Prioridad:** 2 de 4 (Inglés → Italiano → Chino → Ruso)
+**Objetivo:** nivel básico conversacional, para interactuar con extranjeros y agregar a canciones de Keni
 **Herramienta:** Duolingo — a diario, para mantener la racha
 **Progreso actual:**
 **Próximos pasos:**

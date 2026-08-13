@@ -8,7 +8,8 @@ cssclasses:
 
 # 🇨🇳 Chino (Mandarín)
 
-**Objetivo:** nivel conversacional
+**Prioridad:** 3 de 4 (Inglés → Italiano → Chino → Ruso)
+**Objetivo:** nivel básico conversacional, para interactuar con extranjeros y agregar a canciones de Keni
 **Herramienta:** por definir — todavía no tengo rutina fija
 **Progreso actual:**
 **Próximos pasos:**

@@ -8,7 +8,8 @@ cssclasses:
 
 # 🇬🇧 Inglés
 
-**Objetivo:** nivel conversacional
+**Prioridad:** 1 de 4 (Inglés → Italiano → Chino → Ruso)
+**Objetivo:** nivel básico conversacional, para interactuar con extranjeros y agregar a canciones de Keni
 **Herramienta:** Stimulen — práctica de lunes a viernes
 **Progreso actual:**
 **Próximos pasos:**

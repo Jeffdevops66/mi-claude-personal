@@ -8,7 +8,7 @@ cssclasses:
 
 # 🏋️ Ejercicio
 
-**Frecuencia:** lunes a viernes (fin de semana libre de KPI)
+**Frecuencia:** lunes a viernes, misma rutina todos los días — sin día de descanso activo diferenciado (fin de semana libre de KPI)
 **Racha actual:**
 
 > Nota: esto es ejercicio como hábito de crecimiento personal (TAI). Es distinto del Sport de Keni ([[ZEN - Indice]]), que es identidad/aventura (skydive, buceo, kart), no rutina diaria.
