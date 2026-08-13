@@ -1,4 +1,4 @@
-# 🧠 Mi Vault de Obsidian (ARM)
+# 🧠 ARMONIA — Mi Vault de Obsidian
 
 Este vault vive dentro de este repositorio para que nunca se pierda. Está organizado siguiendo mi mapa mental: **ARM** (armonía / plenitud de mi proyecto de vida) se apoya en 4 ramas:
 
@@ -11,7 +11,9 @@ Este vault vive dentro de este repositorio para que nunca se pierda. Está organ
 1. Descarga este repositorio a tu PC con GitHub Desktop (clona `mi-claude-personal`, rama `claude/obsidian-google-chrome-sync-oqjuaj`)
 2. Abre la app de Obsidian
 3. Elige **"Open folder as vault"**
-4. Selecciona la carpeta `obsidian-vault` (esta carpeta, no el repositorio completo)
+4. Selecciona la carpeta `ARMONIA` (esta carpeta, no el repositorio completo)
+
+⚠️ **Importante:** selecciona SOLO la carpeta `ARMONIA`. El repositorio también tiene archivos técnicos míos (`CLAUDE.md`, `skills/`, `commands/`) fuera de esta carpeta — esos son configuración de Claude Code, no son parte de tu mapa mental. Si abres el repositorio completo por error, esos archivos aparecerían mezclados en tu Graph view.
 
 ## Empieza por aquí
 Abre la nota `00-Indice/ARM.md` — desde ahí puedes navegar a todo.
@@ -59,7 +61,7 @@ No existe magia 100% automática, pero Obsidian te ayuda mucho:
 5. Pega esta URL, reemplazando `TU_TOKEN` por el token que copiaste:
    `https://TU_TOKEN@github.com/Jeffdevops66/mi-claude-personal.git`
 6. Rama a usar: `claude/obsidian-google-chrome-sync-oqjuaj`
-7. Cuando termine de clonar, abre la carpeta `obsidian-vault` como vault (igual que en el PC)
+7. Cuando termine de clonar, abre la carpeta `ARMONIA` como vault (igual que en el PC)
 
 **Uso diario en el celular:** el plugin Git tiene un botón para **"Pull"** (traer lo nuevo) y **"Commit and Sync"** (subir lo que escribiste). Puedes configurarlo en Settings del plugin para que lo haga automático cada cierto tiempo (`Auto pull/push interval`).
 
