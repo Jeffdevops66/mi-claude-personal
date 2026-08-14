@@ -21,6 +21,7 @@ ZEN es Keni: mi personaje artista / scuba diver / skydiver / racing driver.
 
 ## Viajes
 - [[Viaje a Europa]]
+- [[Viaje a Koh Tao]] — certificación Dive Master, ahorro progresivo en curso
 
 ## Todas las notas de esta rama (automático, requiere plugin Dataview)
 ```dataview
