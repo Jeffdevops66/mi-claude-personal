@@ -1,0 +1,231 @@
+LINE 9190
+✅ ¡Todo publicado y funcionando en `zamrudcol.co`! Esto es lo que quedó listo:
+
+1. 🖼️ **Imagen para compartir** — tu logo ahora aparece cuando compartes el link en WhatsApp, Instagram o Facebook.
+2. 🏢 **Ficha de negocio para Google** — agregué un bloque invisible con tu nombre, ciudad, teléfono y todas tus redes (incluida tu ficha de Google que me pasaste), para que Google entienda mejor quién eres.
+3. 🤖 **robots.txt y sitemap.xml reales** — ya no muestran tu página por error, ahora son archivos correctos que ayudan a Google a rastrear el sitio.
+4. ✍️ **Descripción más corta** — ajustada para que no se corte en los resultados de Google.
+
+---
+
+## 📋 Pasos para dejar tu landing al 100%
+
+Esto ya no lo puedo hacer yo directamente porque requiere que **tú** entres a tus propias cuentas. Aquí el paso exacto:
+
+### 1️⃣ Verifica tu ficha de Google (5 min)
+- Entra a: `https://business.google.com`
+- Busca "Zamrud" y confirma que la info (teléfono, ciudad, categoría "Productora audiovisual") esté completa y **verificada** (con la palomita azul). Si aún no está verificada, Google te manda un código por SMS o mensaje.
+
+### 2️⃣ Registra tu sitio en Google Search Console (10 min) — el más importante
+- Entra a: `https://search.google.com/search-console`
+- Agrega la propiedad `zamrudcol.co`
+- Verifica que seas el dueño (Cloudflare te da una opción fácil de "verificar por DNS" o "archivo HTML")
+- Una vez dentro, pega esto para que Google indexe tu sitio más rápido: `https://zamrudcol.co/sitemap.xml`
+- 👉 Avísame cuando la tengas activa y yo puedo ayudarte a leer los reportes desde ahí.
+
+### 3️⃣ Comparte el link una vez en cada red (2 min)
+- Manda `zamrudcol.co` una vez por WhatsApp a ti mismo, y publícalo una vez en tu bio de Instagram/TikTok. Esto ayuda a que Google vea que el sitio "existe" y lo visiten personas reales.
+
+### 4️⃣ (Opcional, más adelante) Agregar 1-2 páginas de contenido
+- Con el tiempo, una página de "Portafolio" o "Casos de éxito" ayudaría a aparecer en más búsquedas como "producción musical Bogotá". No es urgente ahora.
+
+**Próximo paso:** el paso 2 (Google Search Console) es el que más impacto tiene y solo tú puedes hacerlo porque necesita tu cuenta de Google. ¿Quieres que te explique paso a paso con capturas cómo verificar el dominio ahí? 🐸
+=====
+LINE 11242
+✅ ¡Todo publicado y funcionando en `zamrudcol.co`! Esto es lo que quedó listo:
+
+1. 🖼️ **Imagen para compartir** — tu logo ahora aparece cuando compartes el link en WhatsApp, Instagram o Facebook.
+2. 🏢 **Ficha de negocio para Google** — agregué un bloque invisible con tu nombre, ciudad, teléfono y todas tus redes (incluida tu ficha de Google que me pasaste), para que Google entienda mejor quién eres.
+3. 🤖 **robots.txt y sitemap.xml reales** — ya no muestran tu página por error, ahora son archivos correctos que ayudan a Google a rastrear el sitio.
+4. ✍️ **Descripción más corta** — ajustada para que no se corte en los resultados de Google.
+
+---
+
+## 📋 Pasos para dejar tu landing al 100%
+
+Esto ya no lo puedo hacer yo directamente porque requiere que **tú** entres a tus propias cuentas. Aquí el paso exacto:
+
+### 1️⃣ Verifica tu ficha de Google (5 min)
+- Entra a: `https://business.google.com`
+- Busca "Zamrud" y confirma que la info (teléfono, ciudad, categoría "Productora audiovisual") esté completa y **verificada** (con la palomita azul). Si aún no está verificada, Google te manda un código por SMS o mensaje.
+
+### 2️⃣ Registra tu sitio en Google Search Console (10 min) — el más importante
+- Entra a: `https://search.google.com/search-console`
+- Agrega la propiedad `zamrudcol.co`
+- Verifica que seas el dueño (Cloudflare te da una opción fácil de "verificar por DNS" o "archivo HTML")
+- Una vez dentro, pega esto para que Google indexe tu sitio más rápido: `https://zamrudcol.co/sitemap.xml`
+- 👉 Avísame cuando la tengas activa y yo puedo ayudarte a leer los reportes desde ahí.
+
+### 3️⃣ Comparte el link una vez en cada red (2 min)
+- Manda `zamrudcol.co` una vez por WhatsApp a ti mismo, y publícalo una vez en tu bio de Instagram/TikTok. Esto ayuda a que Google vea que el sitio "existe" y lo visiten personas reales.
+
+### 4️⃣ (Opcional, más adelante) Agregar 1-2 páginas de contenido
+- Con el tiempo, una página de "Portafolio" o "Casos de éxito" ayudaría a aparecer en más búsquedas como "producción musical Bogotá". No es urgente ahora.
+
+**Próximo paso:** el paso 2 (Google Search Console) es el que más impacto tiene y solo tú puedes hacerlo porque necesita tu cuenta de Google. ¿Quieres que te explique paso a paso con capturas cómo verificar el dominio ahí? 🐸
+=====
+LINE 12082
+✅ ¡Todo publicado y funcionando en `zamrudcol.co`! Esto es lo que quedó listo:
+
+1. 🖼️ **Imagen para compartir** — tu logo ahora aparece cuando compartes el link en WhatsApp, Instagram o Facebook.
+2. 🏢 **Ficha de negocio para Google** — agregué un bloque invisible con tu nombre, ciudad, teléfono y todas tus redes (incluida tu ficha de Google que me pasaste), para que Google entienda mejor quién eres.
+3. 🤖 **robots.txt y sitemap.xml reales** — ya no muestran tu página por error, ahora son archivos correctos que ayudan a Google a rastrear el sitio.
+4. ✍️ **Descripción más corta** — ajustada para que no se corte en los resultados de Google.
+
+---
+
+## 📋 Pasos para dejar tu landing al 100%
+
+Esto ya no lo puedo hacer yo directamente porque requiere que **tú** entres a tus propias cuentas. Aquí el paso exacto:
+
+### 1️⃣ Verifica tu ficha de Google (5 min)
+- Entra a: `https://business.google.com`
+- Busca "Zamrud" y confirma que la info (teléfono, ciudad, categoría "Productora audiovisual") esté completa y **verificada** (con la palomita azul). Si aún no está verificada, Google te manda un código por SMS o mensaje.
+
+### 2️⃣ Registra tu sitio en Google Search Console (10 min) — el más importante
+- Entra a: `https://search.google.com/search-console`
+- Agrega la propiedad `zamrudcol.co`
+- Verifica que seas el dueño (Cloudflare te da una opción fácil de "verificar por DNS" o "archivo HTML")
+- Una vez dentro, pega esto para que Google indexe tu sitio más rápido: `https://zamrudcol.co/sitemap.xml`
+- 👉 Avísame cuando la tengas activa y yo puedo ayudarte a leer los reportes desde ahí.
+
+### 3️⃣ Comparte el link una vez en cada red (2 min)
+- Manda `zamrudcol.co` una vez por WhatsApp a ti mismo, y publícalo una vez en tu bio de Instagram/TikTok. Esto ayuda a que Google vea que el sitio "existe" y lo visiten personas reales.
+
+### 4️⃣ (Opcional, más adelante) Agregar 1-2 páginas de contenido
+- Con el tiempo, una página de "Portafolio" o "Casos de éxito" ayudaría a aparecer en más búsquedas como "producción musical Bogotá". No es urgente ahora.
+
+**Próximo paso:** el paso 2 (Google Search Console) es el que más impacto tiene y solo tú puedes hacerlo porque necesita tu cuenta de Google. ¿Quieres que te explique paso a paso con capturas cómo verificar el dominio ahí? 🐸
+=====
+LINE 12941
+✅ ¡Todo publicado y funcionando en `zamrudcol.co`! Esto es lo que quedó listo:
+
+1. 🖼️ **Imagen para compartir** — tu logo ahora aparece cuando compartes el link en WhatsApp, Instagram o Facebook.
+2. 🏢 **Ficha de negocio para Google** — agregué un bloque invisible con tu nombre, ciudad, teléfono y todas tus redes (incluida tu ficha de Google que me pasaste), para que Google entienda mejor quién eres.
+3. 🤖 **robots.txt y sitemap.xml reales** — ya no muestran tu página por error, ahora son archivos correctos que ayudan a Google a rastrear el sitio.
+4. ✍️ **Descripción más corta** — ajustada para que no se corte en los resultados de Google.
+
+---
+
+## 📋 Pasos para dejar tu landing al 100%
+
+Esto ya no lo puedo hacer yo directamente porque requiere que **tú** entres a tus propias cuentas. Aquí el paso exacto:
+
+### 1️⃣ Verifica tu ficha de Google (5 min)
+- Entra a: `https://business.google.com`
+- Busca "Zamrud" y confirma que la info (teléfono, ciudad, categoría "Productora audiovisual") esté completa y **verificada** (con la palomita azul). Si aún no está verificada, Google te manda un código por SMS o mensaje.
+
+### 2️⃣ Registra tu sitio en Google Search Console (10 min) — el más importante
+- Entra a: `https://search.google.com/search-console`
+- Agrega la propiedad `zamrudcol.co`
+- Verifica que seas el dueño (Cloudflare te da una opción fácil de "verificar por DNS" o "archivo HTML")
+- Una vez dentro, pega esto para que Google indexe tu sitio más rápido: `https://zamrudcol.co/sitemap.xml`
+- 👉 Avísame cuando la tengas activa y yo puedo ayudarte a leer los reportes desde ahí.
+
+### 3️⃣ Comparte el link una vez en cada red (2 min)
+- Manda `zamrudcol.co` una vez por WhatsApp a ti mismo, y publícalo una vez en tu bio de Instagram/TikTok. Esto ayuda a que Google vea que el sitio "existe" y lo visiten personas reales.
+
+### 4️⃣ (Opcional, más adelante) Agregar 1-2 páginas de contenido
+- Con el tiempo, una página de "Portafolio" o "Casos de éxito" ayudaría a aparecer en más búsquedas como "producción musical Bogotá". No es urgente ahora.
+
+**Próximo paso:** el paso 2 (Google Search Console) es el que más impacto tiene y solo tú puedes hacerlo porque necesita tu cuenta de Google. ¿Quieres que te explique paso a paso con capturas cómo verificar el dominio ahí? 🐸
+=====
+LINE 14016
+✅ ¡Todo publicado y funcionando en `zamrudcol.co`! Esto es lo que quedó listo:
+
+1. 🖼️ **Imagen para compartir** — tu logo ahora aparece cuando compartes el link en WhatsApp, Instagram o Facebook.
+2. 🏢 **Ficha de negocio para Google** — agregué un bloque invisible con tu nombre, ciudad, teléfono y todas tus redes (incluida tu ficha de Google que me pasaste), para que Google entienda mejor quién eres.
+3. 🤖 **robots.txt y sitemap.xml reales** — ya no muestran tu página por error, ahora son archivos correctos que ayudan a Google a rastrear el sitio.
+4. ✍️ **Descripción más corta** — ajustada para que no se corte en los resultados de Google.
+
+---
+
+## 📋 Pasos para dejar tu landing al 100%
+
+Esto ya no lo puedo hacer yo directamente porque requiere que **tú** entres a tus propias cuentas. Aquí el paso exacto:
+
+### 1️⃣ Verifica tu ficha de Google (5 min)
+- Entra a: `https://business.google.com`
+- Busca "Zamrud" y confirma que la info (teléfono, ciudad, categoría "Productora audiovisual") esté completa y **verificada** (con la palomita azul). Si aún no está verificada, Google te manda un código por SMS o mensaje.
+
+### 2️⃣ Registra tu sitio en Google Search Console (10 min) — el más importante
+- Entra a: `https://search.google.com/search-console`
+- Agrega la propiedad `zamrudcol.co`
+- Verifica que seas el dueño (Cloudflare te da una opción fácil de "verificar por DNS" o "archivo HTML")
+- Una vez dentro, pega esto para que Google indexe tu sitio más rápido: `https://zamrudcol.co/sitemap.xml`
+- 👉 Avísame cuando la tengas activa y yo puedo ayudarte a leer los reportes desde ahí.
+
+### 3️⃣ Comparte el link una vez en cada red (2 min)
+- Manda `zamrudcol.co` una vez por WhatsApp a ti mismo, y publícalo una vez en tu bio de Instagram/TikTok. Esto ayuda a que Google vea que el sitio "existe" y lo visiten personas reales.
+
+### 4️⃣ (Opcional, más adelante) Agregar 1-2 páginas de contenido
+- Con el tiempo, una página de "Portafolio" o "Casos de éxito" ayudaría a aparecer en más búsquedas como "producción musical Bogotá". No es urgente ahora.
+
+**Próximo paso:** el paso 2 (Google Search Console) es el que más impacto tiene y solo tú puedes hacerlo porque necesita tu cuenta de Google. ¿Quieres que te explique paso a paso con capturas cómo verificar el dominio ahí? 🐸
+=====
+LINE 15043
+✅ ¡Todo publicado y funcionando en `zamrudcol.co`! Esto es lo que quedó listo:
+
+1. 🖼️ **Imagen para compartir** — tu logo ahora aparece cuando compartes el link en WhatsApp, Instagram o Facebook.
+2. 🏢 **Ficha de negocio para Google** — agregué un bloque invisible con tu nombre, ciudad, teléfono y todas tus redes (incluida tu ficha de Google que me pasaste), para que Google entienda mejor quién eres.
+3. 🤖 **robots.txt y sitemap.xml reales** — ya no muestran tu página por error, ahora son archivos correctos que ayudan a Google a rastrear el sitio.
+4. ✍️ **Descripción más corta** — ajustada para que no se corte en los resultados de Google.
+
+---
+
+## 📋 Pasos para dejar tu landing al 100%
+
+Esto ya no lo puedo hacer yo directamente porque requiere que **tú** entres a tus propias cuentas. Aquí el paso exacto:
+
+### 1️⃣ Verifica tu ficha de Google (5 min)
+- Entra a: `https://business.google.com`
+- Busca "Zamrud" y confirma que la info (teléfono, ciudad, categoría "Productora audiovisual") esté completa y **verificada** (con la palomita azul). Si aún no está verificada, Google te manda un código por SMS o mensaje.
+
+### 2️⃣ Registra tu sitio en Google Search Console (10 min) — el más importante
+- Entra a: `https://search.google.com/search-console`
+- Agrega la propiedad `zamrudcol.co`
+- Verifica que seas el dueño (Cloudflare te da una opción fácil de "verificar por DNS" o "archivo HTML")
+- Una vez dentro, pega esto para que Google indexe tu sitio más rápido: `https://zamrudcol.co/sitemap.xml`
+- 👉 Avísame cuando la tengas activa y yo puedo ayudarte a leer los reportes desde ahí.
+
+### 3️⃣ Comparte el link una vez en cada red (2 min)
+- Manda `zamrudcol.co` una vez por WhatsApp a ti mismo, y publícalo una vez en tu bio de Instagram/TikTok. Esto ayuda a que Google vea que el sitio "existe" y lo visiten personas reales.
+
+### 4️⃣ (Opcional, más adelante) Agregar 1-2 páginas de contenido
+- Con el tiempo, una página de "Portafolio" o "Casos de éxito" ayudaría a aparecer en más búsquedas como "producción musical Bogotá". No es urgente ahora.
+
+**Próximo paso:** el paso 2 (Google Search Console) es el que más impacto tiene y solo tú puedes hacerlo porque necesita tu cuenta de Google. ¿Quieres que te explique paso a paso con capturas cómo verificar el dominio ahí? 🐸
+=====
+LINE 16253
+✅ ¡Todo publicado y funcionando en `zamrudcol.co`! Esto es lo que quedó listo:
+
+1. 🖼️ **Imagen para compartir** — tu logo ahora aparece cuando compartes el link en WhatsApp, Instagram o Facebook.
+2. 🏢 **Ficha de negocio para Google** — agregué un bloque invisible con tu nombre, ciudad, teléfono y todas tus redes (incluida tu ficha de Google que me pasaste), para que Google entienda mejor quién eres.
+3. 🤖 **robots.txt y sitemap.xml reales** — ya no muestran tu página por error, ahora son archivos correctos que ayudan a Google a rastrear el sitio.
+4. ✍️ **Descripción más corta** — ajustada para que no se corte en los resultados de Google.
+
+---
+
+## 📋 Pasos para dejar tu landing al 100%
+
+Esto ya no lo puedo hacer yo directamente porque requiere que **tú** entres a tus propias cuentas. Aquí el paso exacto:
+
+### 1️⃣ Verifica tu ficha de Google (5 min)
+- Entra a: `https://business.google.com`
+- Busca "Zamrud" y confirma que la info (teléfono, ciudad, categoría "Productora audiovisual") esté completa y **verificada** (con la palomita azul). Si aún no está verificada, Google te manda un código por SMS o mensaje.
+
+### 2️⃣ Registra tu sitio en Google Search Console (10 min) — el más importante
+- Entra a: `https://search.google.com/search-console`
+- Agrega la propiedad `zamrudcol.co`
+- Verifica que seas el dueño (Cloudflare te da una opción fácil de "verificar por DNS" o "archivo HTML")
+- Una vez dentro, pega esto para que Google indexe tu sitio más rápido: `https://zamrudcol.co/sitemap.xml`
+- 👉 Avísame cuando la tengas activa y yo puedo ayudarte a leer los reportes desde ahí.
+
+### 3️⃣ Comparte el link una vez en cada red (2 min)
+- Manda `zamrudcol.co` una vez por WhatsApp a ti mismo, y publícalo una vez en tu bio de Instagram/TikTok. Esto ayuda a que Google vea que el sitio "existe" y lo visiten personas reales.
+
+### 4️⃣ (Opcional, más adelante) Agregar 1-2 páginas de contenido
+- Con el tiempo, una página de "Portafolio" o "Casos de éxito" ayudaría a aparecer en más búsquedas como "producción musical Bogotá". No es urgente ahora.
+
+**Próximo paso:** el paso 2 (Google Search Console) es el que más impacto tiene y solo tú puedes hacerlo porque necesita tu cuenta de Google. ¿Quieres que te explique paso a paso con capturas cómo verificar el dominio ahí? 🐸
+=====

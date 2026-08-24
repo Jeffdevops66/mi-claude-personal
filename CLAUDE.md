@@ -34,6 +34,11 @@
 - mi-claude-personal: mi repositorio de skills y agentes en GitHub
 - Aprendiendo a maximizar agentes de IA
 
+## 💼 Este repo es SENSI (mi trabajo), no Zamrud
+- Este proyecto (mi-claude-personal) es sobre mi vida profesional: el reto de RevOps, HubSpot, Zapier, inFlow, WooCommerce, QuickBooks, el equipo (Miguel, Paola, Alejandro, Karine), la evaluación del 16-sep-2026.
+- Zamrud (mi emprendimiento: producción audiovisual, website, redes) vive en otra carpeta aparte: `C:\Users\Lenovo\zamrud-landing`, con su propio CLAUDE.md.
+- Si algo que pido aquí es en realidad de Zamrud (correo info@zamrudcol.co, landing, Instagram/TikTok de Zamrud, etc.), dime que eso pertenece al otro proyecto y no lo mezcles aquí.
+
 ## Lo que NO me gusta
 - Explicaciones largas sin acción concreta
 - Términos técnicos sin explicar
