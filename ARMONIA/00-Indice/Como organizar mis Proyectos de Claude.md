@@ -53,6 +53,27 @@ Repite esto en los 5 proyectos, eligiendo siempre el mismo repo (ya tiene ARMONI
 - Si actualizas una nota en Obsidian y la subes a GitHub (commit + push desde GitHub Desktop), el proyecto conectado la ve automáticamente la próxima vez que le preguntes — no hay que resubir nada a mano.
 - Si abres un chat normal (fuera de Proyectos), Claude no sabe nada de esto — usa siempre el Proyecto correspondiente.
 
+## 🗝️ Palabra clave por bóveda (para no mezclar entre bloques del día)
+
+HAM es la base — la uso siempre porque es mi único ingreso. Los otros 4 los abro en bloques puntuales del día. Para no perderme entre bloques, cada chat nuevo empieza con un tag:
+
+| Tema | Proyecto | Tag al inicio del mensaje |
+|---|---|---|
+| Sensi, HubSpot, Zapier, WooCommerce, ingresos extra | 🏠 HAM | `HAM:` |
+| Inglés/italiano/ruso/chino, ejercicio, meditación, journaling | 💪 TAI | `TAI:` |
+| Música, edición, cámaras, buceo, paracaidismo, kart, viajes | 🎭 ZEN | `ZEN:` |
+| Zamrud: cash, legal, contenido, ropa, marketing IA | 👔 CEO | `CEO:` |
+| Balance general, decisiones grandes de vida | ☯️ ARM | `ARM:` |
+
+Si el mensaje que voy a escribir no calza con el tag del proyecto que tengo abierto → señal de que me equivoqué de bóveda, cierro y abro la correcta.
+
+## 🚀 Cómo aprovechar al máximo (y no gastar de más el plan Pro)
+
+- **Chat nuevo por cada tema, siempre** (así ya lo hago) — un chat que sigue por días relee todo lo anterior en cada respuesta, gasta más del límite. Chat corto y nuevo = más barato y más rápido.
+- Cerrar el chat cuando termino el tema, no dejarlo "por si acaso" — se vuelve a abrir cuando haga falta, las notas siguen ahí vía GitHub.
+- No repetirle a Claude información que ya está en una nota de Obsidian — solo preguntar, él la lee sola del repo.
+- Sin Memoria activada (decisión tomada): por eso es clave hacer commit + push desde GitHub Desktop apenas edito una nota — si no subo el cambio, el Proyecto sigue viendo la versión vieja.
+
 ## Claude Code (en el PC)
 - `ARMONIA/` (Documents\GitHub\mi-claude-personal) = vault de vida
 - `mi-claude-personal\mi-claude-personal` = repo técnico del reto Tektone (temporal, hasta 16-sep-2026)
