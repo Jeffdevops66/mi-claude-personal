@@ -4,6 +4,9 @@ tags: [meta, claude]
 
 # 🗂️ Cómo organizar mis Proyectos de Claude (para no mezclar contextos)
 
+## ✅ Estado: TODO ACTIVADO (2026-09-06)
+Los 5 proyectos ya existen en claude.ai, cada uno con sus instrucciones y GitHub conectado (repo `mi-claude-personal`, rama `main`, apuntando a su carpeta de `ARMONIA`). No queda ningún paso pendiente.
+
 ## Paso 0 — Arreglar el repo primero ✅ HECHO (2026-09-06)
 El vault ARMONIA vivía en la rama `claude/obsidian-google-chrome-sync-oqjuaj`, no en `main`.
 Ya está resuelto: ARMONIA completo (45 archivos) está en `main` (commit `a0a8c9a`), sin tocar los agentes del reto Tektone.
