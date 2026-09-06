@@ -1,0 +1,58 @@
+{
+  "collapse-filter": true,
+  "search": "-path:\"README\" -path:\"99-Plantillas\"",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#arm",
+      "color": {
+        "a": 1,
+        "rgb": 10898598
+      }
+    },
+    {
+      "query": "tag:#tai",
+      "color": {
+        "a": 1,
+        "rgb": 3051488
+      }
+    },
+    {
+      "query": "tag:#ham",
+      "color": {
+        "a": 1,
+        "rgb": 15761950
+      }
+    },
+    {
+      "query": "tag:#zen",
+      "color": {
+        "a": 1,
+        "rgb": 6268988
+      }
+    },
+    {
+      "query": "tag:#ceo",
+      "color": {
+        "a": 1,
+        "rgb": 15778841
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.5,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1,
+  "close": false
+}

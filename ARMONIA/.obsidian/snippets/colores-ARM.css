@@ -1,0 +1,38 @@
+/* Código de colores personal de Jeffdevops66 — replica el marcador a mano:
+   ARM = morado, TAI = azul, HAM = naranja, ZEN = verde, CEO = amarillo */
+
+:root {
+  --arm-color: #a64ca6;
+  --tai-color: #2e8fe0;
+  --ham-color: #f0821e;
+  --zen-color: #5fa83c;
+  --ceo-color: #f0c419;
+}
+
+/* --- Carpetas en el explorador de archivos --- */
+.nav-folder-title[data-path="00-Indice"] .nav-folder-title-content { color: var(--arm-color); font-weight: 700; }
+.nav-folder-title[data-path="01-TAI"] .nav-folder-title-content { color: var(--tai-color); font-weight: 700; }
+.nav-folder-title[data-path="02-HAM"] .nav-folder-title-content { color: var(--ham-color); font-weight: 700; }
+.nav-folder-title[data-path="03-ZEN"] .nav-folder-title-content { color: var(--zen-color); font-weight: 700; }
+.nav-folder-title[data-path="04-CEO"] .nav-folder-title-content { color: var(--ceo-color); font-weight: 700; }
+
+/* --- Tags (#tai, #ham, #zen, #ceo) en vista de lectura y panel de tags --- */
+a.tag[href^="#tai"], [data-tag-id="tai"] { color: var(--tai-color) !important; border-color: var(--tai-color) !important; }
+a.tag[href^="#ham"], [data-tag-id="ham"] { color: var(--ham-color) !important; border-color: var(--ham-color) !important; }
+a.tag[href^="#zen"], [data-tag-id="zen"] { color: var(--zen-color) !important; border-color: var(--zen-color) !important; }
+a.tag[href^="#ceo"], [data-tag-id="ceo"] { color: var(--ceo-color) !important; border-color: var(--ceo-color) !important; }
+a.tag[href^="#arm"], [data-tag-id="arm"] { color: var(--arm-color) !important; border-color: var(--arm-color) !important; }
+
+/* --- Título y encabezados de cada nota, según su rama (cssclasses en el frontmatter) --- */
+.arm .inline-title, .arm h1 { color: var(--arm-color) !important; }
+.tai .inline-title, .tai h1 { color: var(--tai-color) !important; }
+.ham .inline-title, .ham h1 { color: var(--ham-color) !important; }
+.zen .inline-title, .zen h1 { color: var(--zen-color) !important; }
+.ceo .inline-title, .ceo h1 { color: var(--ceo-color) !important; }
+
+/* --- Barra superior de la nota, misma idea que el resaltador en tu hoja --- */
+.markdown-source-view.arm, .markdown-preview-view.arm { border-top: 4px solid var(--arm-color); }
+.markdown-source-view.tai, .markdown-preview-view.tai { border-top: 4px solid var(--tai-color); }
+.markdown-source-view.ham, .markdown-preview-view.ham { border-top: 4px solid var(--ham-color); }
+.markdown-source-view.zen, .markdown-preview-view.zen { border-top: 4px solid var(--zen-color); }
+.markdown-source-view.ceo, .markdown-preview-view.ceo { border-top: 4px solid var(--ceo-color); }
