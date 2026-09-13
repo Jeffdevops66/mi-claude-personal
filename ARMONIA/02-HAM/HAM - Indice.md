@@ -17,9 +17,9 @@ HAM es Sensi, mi negocio (Sensi Home). Es mi único ingreso por ahora — con es
 - [[Sensi Calendar]] — ✅ hecho, ver [[Calendario Semanal 2026]]
 
 ## Proyectos activos
-- [[Sensi Sistema RevOps]] — el reto grande, evaluación 16-sep-2026
+- [[Sensi Sistema RevOps]] — el reto grande, evaluación 16-sep-2026 (proyecto puntual, no vive en el calendario semanal estándar)
 - [[AI Model]] — nuevo 2026, por definir caso de uso
-- [[Kids]] — nuevo 2026, por definir qué es
+- [[Kids]] — canal Faceless automatizado, segundo ingreso aparte de Sensi
 
 ## Cash (dinero) — hábitos
 - [[Seguimiento]] — débitos e ingresos del negocio

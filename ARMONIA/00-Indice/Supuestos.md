@@ -23,10 +23,14 @@ tags: [supuestos, meta]
 - HAM suma 2 proyectos nuevos: [[AI Model]] (modelo IA para Sensi) y [[Sensi Sistema RevOps]] (el reto grande, ya vivía en `proyectos/reto-systems-revops/`, solo le faltaba nota de enlace).
 - [[Sensi Calendar]] queda resuelto → ver [[Calendario Semanal 2026]].
 
+## ✅ Confirmado 13-sep-2026 (ronda 2)
+- Arrancas a trabajar a las **7:00 am** — el calendario se corrió 1 hora más temprano en todos sus bloques.
+- Fin de semana confirmado tal cual el borrador: sábado partido (ZEN mañana / CEO tarde), domingo libre.
+- [[Kids]] (HAM) = un canal Faceless automatizado, para tener un segundo ingreso aparte de Sensi. Se trabaja el viernes dentro del bloque HAM.
+- "reduc" (visto en el dibujo, rama CEO) no era un ítem nuevo — es tu responsabilidad de RevOps y sistemas en Sensi, ya cubierta por [[Sensi Sistema RevOps]] (HAM). No se crea nota aparte.
+
 ## ❓ Todavía por confirmar
 1. Las notas "Done..." de tu celular (ej. "Done CEO Web Zamrud") no las recreé, parecen tareas completadas. Si quieres, las agrego como un log histórico.
-2. [[Kids]] (rama HAM, visto en tu dibujo 2026) — no supimos qué es.
-3. "reduc" (visto en tu dibujo 2026, rama CEO) — no quedó claro qué es.
 
 Con esto, las 4 ramas ya tienen contenido real. 🎉
 

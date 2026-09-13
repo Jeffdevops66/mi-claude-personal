@@ -23,31 +23,30 @@ No le metas nada de TAI/ZEN/CEO encima estos 3 días — foco total en [[Sensi S
 
 ## 🗓️ Semana estándar (desde el 21-sep-2026)
 
-Basado en lo que confirmaste: HAM = 4-5h/día entre semana, y tiempo extra repartido parejo entre TAI, ZEN y CEO.
+Confirmado: arrancas a trabajar a las **7:00 am**, HAM = 5h/día entre semana, y tiempo extra repartido parejo entre TAI, ZEN y CEO.
 
 | Hora | Lunes | Martes | Miércoles | Jueves | Viernes |
 |---|---|---|---|---|---|
-| 6:30-7:30 | 💪 TAI — [[Ejercicio]] (activación/movilidad/fuerza) | igual | igual | igual | igual |
-| 8:00-1:00 | 🏠 HAM — [[HubSpot]] | 🏠 HAM — [[Zapier]] | 🏠 HAM — [[WooCommerce]] | 🏠 HAM — [[Sensi Catalogo]] | 🏠 HAM — [[Seguimiento]] + cierre semanal |
-| 1:00-2:00 | 🍽️ Almuerzo | Almuerzo | Almuerzo | Almuerzo | Almuerzo |
-| 2:00-2:30 | 💪 TAI — [[Ingles]] | 💪 TAI — [[Italiano]] | 💪 TAI — [[Chino]] | 💪 TAI — [[Ruso]] | 💪 TAI — repaso libre |
-| 2:30-4:30 | 👔 CEO — [[Legal]] / [[Romero Vega SAS]] | 👔 CEO — [[Shorts]] / [[Faceless]] | 👔 CEO — [[Cash]] | 👔 CEO — [[AI Master Models]] | 👔 CEO — [[Ropa]] / buffer |
-| 4:30-6:30 | 🎭 ZEN — [[Moto]] | 🎭 ZEN — [[Sim Racing]] | 🎭 ZEN — [[Kart]] | 🎭 ZEN — [[Music]] / [[Free]] | 🎭 ZEN — buffer / planear [[Viaje a Europa]] |
-| 6:30-7:00 | 💪 TAI — [[Meditacion]] + [[Journaling]] | igual | igual | igual | igual |
+| 6:00-7:00 | 💪 TAI — [[Ejercicio]] (activación/movilidad/fuerza) | igual | igual | igual | igual |
+| 7:00-12:00 | 🏠 HAM — [[HubSpot]] | 🏠 HAM — [[Zapier]] | 🏠 HAM — [[WooCommerce]] | 🏠 HAM — [[Sensi Catalogo]] | 🏠 HAM — [[Seguimiento]] + [[AI Model]] / [[Kids]] |
+| 12:00-13:00 | 🍽️ Almuerzo | Almuerzo | Almuerzo | Almuerzo | Almuerzo |
+| 13:00-13:30 | 💪 TAI — [[Ingles]] | 💪 TAI — [[Italiano]] | 💪 TAI — [[Chino]] | 💪 TAI — [[Ruso]] | 💪 TAI — repaso libre |
+| 13:30-15:30 | 👔 CEO — [[Legal]] / [[Romero Vega SAS]] | 👔 CEO — [[Shorts]] / [[Faceless]] | 👔 CEO — [[Cash]] | 👔 CEO — [[AI Master Models]] | 👔 CEO — [[Ropa]] / buffer |
+| 15:30-17:30 | 🎭 ZEN — [[Moto]] | 🎭 ZEN — [[Sim Racing]] | 🎭 ZEN — [[Kart]] | 🎭 ZEN — [[Music]] / [[Free]] | 🎭 ZEN — buffer / planear [[Viaje a Europa]] |
+| 17:30-18:00 | 💪 TAI — [[Meditacion]] + [[Journaling]] | igual | igual | igual | igual |
+| 18:00-20:00 | 🌙 Libre | Libre | Libre | Libre | Libre |
 
-**Fin de semana (libre de KPI para TAI):**
-- **Sábado mañana (3h):** 🎭 ZEN al aire libre — kart, moto o sim racing, lo que toque esa semana
-- **Sábado tarde (3h):** 👔 CEO — grabación de contenido Zamrud o trabajo de [[Romero Vega SAS]] (equipos/vehículos)
+**Fin de semana (libre de KPI para TAI) — confirmado tal cual lo propuse:**
+- **Sábado 8:00-11:00 (3h):** 🎭 ZEN al aire libre — kart, moto o sim racing, lo que toque esa semana
+- **Sábado 14:00-17:00 (3h):** 👔 CEO — grabación de contenido Zamrud o trabajo de [[Romero Vega SAS]] (equipos/vehículos)
 - **Domingo:** libre — familia, descanso, [[Journaling]] opcional a mano
+
+> [[Sensi Sistema RevOps]] es un proyecto puntual (terminó con la evaluación del 16-sep) — no ocupa un bloque fijo en esta semana estándar. Si vuelve a haber una evaluación grande, se le hace espacio como se hizo esta vez.
 
 ## ⏱️ Total semanal por rama (aprox.)
 - 🏠 HAM: 25h (5h × 5 días)
 - 💪 TAI: 10h (hábitos repartidos en el día — no compite por bloques grandes)
 - 👔 CEO: 13h (10h entre semana + 3h sábado)
 - 🎭 ZEN: 13h (10h entre semana + 3h sábado)
-
-## ❓ Pendiente de tu parte
-- [[Kids]] (HAM) — no supimos qué es, dime en una frase y lo ubico en el calendario
-- "reduc" (visto en tu dibujo, rama CEO) — no quedó claro qué es, dime y lo agrego
 
 ⬅️ Volver a [[ARM]]
