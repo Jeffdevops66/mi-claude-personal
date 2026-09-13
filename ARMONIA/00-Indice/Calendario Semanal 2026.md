@@ -6,12 +6,12 @@ cssclasses:
 
 # 📅 Calendario Semanal 2026 — ARM
 
-El calendario que faltaba: cuándo le toca a cada rama (TAI, HAM, ZEN, CEO) durante la semana, para que todo el ARM 2026 tenga su espacio. Reemplaza a [[Sensi Calendar]] (HAM), que queda resuelto.
+Este calendario ya no es un borrador: es la transcripción de tu **timebox real** ("Live Life Hard"), la libreta donde ya tenías esto resuelto en bloques de 30 min. Aquí queda en digital, ligado a cada nota del vault. Reemplaza a [[Sensi Calendar]] (HAM), que queda resuelto.
 
 ## 🧭 Regla para diferenciar PROYECTO vs HÁBITO
 - **Hábito** = se repite cada semana, sin fecha de fin. Se mide con racha (ver `99-Plantillas/Plantilla - Habito.md`).
-- **Proyecto** = tiene una meta final. Cuando se cumple, se cierra (ver `99-Plantillas/Plantilla - Proyecto.md`).
-- Cada nota del vault ya tiene el campo `tipo: habito` o `tipo: proyecto` en su encabezado — así Dataview puede algún día listarlas separadas.
+- **Proyecto** = tiene una meta final (ej. seguidores, formalizar algo). Cuando se cumple, se cierra (ver `99-Plantillas/Plantilla - Proyecto.md`).
+- Cada nota del vault ya tiene el campo `tipo: habito` o `tipo: proyecto` en su encabezado.
 
 ## ⚠️ Antes de usar este calendario — esta semana (14 al 16-sep) es especial
 No apliques este calendario todavía. Esta semana ya está guionada en `proyectos/reto-systems-revops/TRACKER.md` (Semana 11):
@@ -19,34 +19,53 @@ No apliques este calendario todavía. Esta semana ya está guionada en `proyecto
 - **Mar 15:** descansar bien 😴
 - **Mié 16-sep: LA EVALUACIÓN** 🏆
 
-No le metas nada de TAI/ZEN/CEO encima estos 3 días — foco total en [[Sensi Sistema RevOps]]. Este calendario semanal arranca la **semana del lunes 21-sep-2026**, ya con la evaluación atrás.
+No le metas nada de TAI/ZEN/CEO encima estos 3 días — foco total en [[Sensi Sistema RevOps]]. El timebox de abajo arranca la **semana del lunes 21-sep-2026**.
 
-## 🗓️ Semana estándar (desde el 21-sep-2026)
+## 🗓️ Timebox real (lunes a viernes)
 
-Confirmado: arrancas a trabajar a las **7:00 am**, HAM = 5h/día entre semana, y tiempo extra repartido parejo entre TAI, ZEN y CEO.
+| Hora | Bloque | Detalle |
+|---|---|---|
+| 4:00-4:30 | 💪 TAI | Activación + Movilidad (ver [[Ejercicio]]) |
+| 4:30-5:00 | 💪 TAI | Ejercicio/fuerza + [[Meditacion]] |
+| 5:00-5:30 | 🎭 ZEN | [[Free]] (freestyle) + app de práctica — Ma/Ju: [[Sim Racing]] en su lugar |
+| 5:30-6:00 | 🎭 ZEN | [[Music]] — Ma/Ju: [[Sim Racing]] (continúa) |
+| 6:00-7:00 | ⚪ Libre | Desayuno, alistarse |
+| 7:00-10:00 | 🏠 HAM | Herramienta del día (ver tabla abajo) |
+| 10:00-11:00 | ⚪ Libre | Buffer |
+| 11:00-11:30 | 💪 TAI | [[Ingles]] (Stimulen) + typing |
+| 11:30-12:00 | 💪 TAI | Segundo mini-entreno (ACT/MOV) + [[Italiano]] |
+| 12:00-13:00 | 🍽️ Almuerzo | |
+| 13:00-16:00 | 🏠 HAM | Ejecución Sensi — viernes: + [[Kids]] / [[AI Model]] |
+| 16:00-17:00 | 👔 CEO | Zamrud — web, pendientes, [[Cash]]/[[Legal]]/[[Romero Vega SAS]] según el día |
+| 17:00-17:30 | 💪 TAI | Tercer repaso (MOV/MED) |
+| 17:30-18:00 | 💪 TAI | [[Journaling]] (DWN/DH) — recap del día + tareas de mañana |
+| 18:00+ | ⚪ Libre | |
 
-| Hora | Lunes | Martes | Miércoles | Jueves | Viernes |
-|---|---|---|---|---|---|
-| 6:00-7:00 | 💪 TAI — [[Ejercicio]] (activación/movilidad/fuerza) | igual | igual | igual | igual |
-| 7:00-12:00 | 🏠 HAM — [[HubSpot]] | 🏠 HAM — [[Zapier]] | 🏠 HAM — [[WooCommerce]] | 🏠 HAM — [[Sensi Catalogo]] | 🏠 HAM — [[Seguimiento]] + [[AI Model]] / [[Kids]] |
-| 12:00-13:00 | 🍽️ Almuerzo | Almuerzo | Almuerzo | Almuerzo | Almuerzo |
-| 13:00-13:30 | 💪 TAI — [[Ingles]] | 💪 TAI — [[Italiano]] | 💪 TAI — [[Chino]] | 💪 TAI — [[Ruso]] | 💪 TAI — repaso libre |
-| 13:30-15:30 | 👔 CEO — [[Legal]] / [[Romero Vega SAS]] | 👔 CEO — [[Shorts]] / [[Faceless]] | 👔 CEO — [[Cash]] | 👔 CEO — [[AI Master Models]] | 👔 CEO — [[Ropa]] / buffer |
-| 15:30-17:30 | 🎭 ZEN — [[Moto]] | 🎭 ZEN — [[Sim Racing]] | 🎭 ZEN — [[Kart]] | 🎭 ZEN — [[Music]] / [[Free]] | 🎭 ZEN — buffer / planear [[Viaje a Europa]] |
-| 17:30-18:00 | 💪 TAI — [[Meditacion]] + [[Journaling]] | igual | igual | igual | igual |
-| 18:00-20:00 | 🌙 Libre | Libre | Libre | Libre | Libre |
+### 🏠 HAM — qué toca cada día (7:00-10:00)
+| Lunes | Martes | Miércoles | Jueves | Viernes |
+|---|---|---|---|---|
+| [[HubSpot]] | [[Zapier]] | [[WooCommerce]] | [[Sensi Catalogo]] | [[Seguimiento]] + cierre semanal |
 
-**Fin de semana (libre de KPI para TAI) — confirmado tal cual lo propuse:**
-- **Sábado 8:00-11:00 (3h):** 🎭 ZEN al aire libre — kart, moto o sim racing, lo que toque esa semana
+### 🎭 ZEN — qué toca cada día (5:00-6:00)
+| Lunes | Martes | Miércoles | Jueves | Viernes |
+|---|---|---|---|---|
+| Free + Music | [[Sim Racing]] | Free + Music | [[Sim Racing]] | Free + Music |
+
+**Fin de semana (libre de KPI para TAI):**
+- **Sábado 8:00-11:00 (3h):** 🎭 ZEN al aire libre — [[Kart]] o [[Moto]], lo que toque esa semana
 - **Sábado 14:00-17:00 (3h):** 👔 CEO — grabación de contenido Zamrud o trabajo de [[Romero Vega SAS]] (equipos/vehículos)
-- **Domingo:** libre — familia, descanso, [[Journaling]] opcional a mano
+- **Domingo:** libre — familia, descanso
 
-> [[Sensi Sistema RevOps]] es un proyecto puntual (terminó con la evaluación del 16-sep) — no ocupa un bloque fijo en esta semana estándar. Si vuelve a haber una evaluación grande, se le hace espacio como se hizo esta vez.
+> [[Sensi Sistema RevOps]] es un proyecto puntual (terminó con la evaluación del 16-sep) — no ocupa un bloque fijo en este timebox. Si vuelve a haber una evaluación grande, se le hace espacio como se hizo esta vez.
 
 ## ⏱️ Total semanal por rama (aprox.)
-- 🏠 HAM: 25h (5h × 5 días)
-- 💪 TAI: 10h (hábitos repartidos en el día — no compite por bloques grandes)
-- 👔 CEO: 13h (10h entre semana + 3h sábado)
-- 🎭 ZEN: 13h (10h entre semana + 3h sábado)
+- 🏠 HAM: 30h (6h × 5 días)
+- 💪 TAI: 15h (5 sesiones cortas × 5 días)
+- 👔 CEO: 8h (5h entre semana + 3h sábado)
+- 🎭 ZEN: 8h (5h entre semana + 3h sábado)
+
+## ❓ Aún abierto
+- [[Chino]] y [[Ruso]] no tienen bloque fijo en el timebox — quedan como práctica ocasional hasta que Inglés/Italiano lleguen a nivel conversacional
+- La "app de práctica" del bloque ZEN 5:00-5:15 (lunes/miércoles/viernes) — no quedó definida cuál es
 
 ⬅️ Volver a [[ARM]]

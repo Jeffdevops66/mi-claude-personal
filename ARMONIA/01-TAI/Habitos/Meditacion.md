@@ -9,7 +9,7 @@ cssclasses:
 
 # 🧘 Meditación cuadrada
 
-**Frecuencia:** lunes a viernes, mañana y tarde
+**Frecuencia:** lunes a viernes, 2 veces — 4:30-5:00am (cierre de [[Ejercicio]] mañana) y 17:00-17:30 (repaso de tarde, antes de [[Journaling]])
 **Racha actual:**
 
 Sin guías, solo concentrarme en que estoy respirando. Cuento de 1 a 10 y de 10 a 1.

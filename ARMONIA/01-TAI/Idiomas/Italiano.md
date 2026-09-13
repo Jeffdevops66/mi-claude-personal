@@ -11,7 +11,7 @@ cssclasses:
 
 **Prioridad:** 2 de 4 (Inglés → Italiano → Chino → Ruso)
 **Objetivo:** nivel básico conversacional, para interactuar con extranjeros y agregar a canciones de Keni
-**Herramienta:** Duolingo — a diario, para mantener la racha
+**Herramienta:** Duolingo — 11:45am-12:00pm aprox., dentro del bloque de segundo mini-entreno (ver [[Ejercicio]])
 **Progreso actual:**
 **Próximos pasos:**
 

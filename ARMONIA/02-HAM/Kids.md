@@ -11,7 +11,7 @@ cssclasses:
 
 Ingreso adicional al de Sensi: un canal de contenido tipo Faceless, automatizado, para no depender solo del sueldo de Sensi. (El nombre "Kids" quedó del mapa mental 2026 — el contenido en sí puede ser para otro público, eso se define al armarlo.)
 
-**Objetivo:** montar un canal Faceless automatizado como segunda fuente de ingreso
+**Objetivo:** montar un canal Faceless automatizado como segunda fuente de ingreso — meta de seguidores en TikTok y YouTube: por definir
 **Estado actual:** por arrancar — falta definir nicho de contenido y la parte de automatización (guion → voz → video → publicación)
 **Próximos pasos:**
 - [ ] Definir nicho/tema del canal

@@ -29,8 +29,18 @@ tags: [supuestos, meta]
 - [[Kids]] (HAM) = un canal Faceless automatizado, para tener un segundo ingreso aparte de Sensi. Se trabaja el viernes dentro del bloque HAM.
 - "reduc" (visto en el dibujo, rama CEO) no era un ítem nuevo — es tu responsabilidad de RevOps y sistemas en Sensi, ya cubierta por [[Sensi Sistema RevOps]] (HAM). No se crea nota aparte.
 
+## ✅ Confirmado 13-sep-2026 (ronda 3 — timebox real de tu libreta "Live Life Hard")
+- El calendario ya no es un borrador mío: es la transcripción exacta de tu libreta física, bloques de 30 min.
+- TAI aparece 5 veces al día (4:00-5:00, 11:00-12:00, 17:00-18:00) — activación/movilidad/fuerza, meditación, inglés+typing, italiano, journaling.
+- ZEN vive en 5:00-6:00am: Free+Music (lun/mié/vie) o [[Sim Racing]] (mar/jue) — pasa a proyecto porque tiene meta de seguidores.
+- HAM real son 6h/día (7:00-10:00 y 13:00-16:00), no 5h — corregido tras ver la libreta.
+- CEO es 1h/día (16:00-17:00), no 2h — corregido.
+- [[Journaling]] (17:30-18:00, "DWN/DH" en la libreta) es hábito TAI, y también cumple la función de "Download" que describiste (cerrar el día + traer tareas de mañana) — no hace falta nota aparte en CEO.
+- Chino y Ruso quedan sin bloque fijo por ahora (más adelante, cuando Inglés/Italiano estén listos).
+
 ## ❓ Todavía por confirmar
 1. Las notas "Done..." de tu celular (ej. "Done CEO Web Zamrud") no las recreé, parecen tareas completadas. Si quieres, las agrego como un log histórico.
+2. Qué app específica usas en el bloque ZEN de 5:00-5:15am (lun/mié/vie).
 
 Con esto, las 4 ramas ya tienen contenido real. 🎉
 

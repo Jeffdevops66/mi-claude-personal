@@ -11,7 +11,7 @@ cssclasses:
 
 **Prioridad:** 1 de 4 (Inglés → Italiano → Chino → Ruso)
 **Objetivo:** nivel básico conversacional, para interactuar con extranjeros y agregar a canciones de Keni
-**Herramienta:** Stimulen — práctica de lunes a viernes
+**Herramienta:** Stimulen — 11:00-11:15am, combinado con práctica de typing (escritura rápida)
 **Progreso actual:**
 **Próximos pasos:**
 

@@ -13,6 +13,7 @@ Canciones que hago como Keni para Zamrud u otros proyectos, colaborando con otro
 
 **Origen:** todo empezó con Zamrud apoyando a Keni como un tercero de la empresa — el mismo espíritu que hoy es [[Faceless]] (CEO), apoyar el arte de otros.
 **Notas:** ya hay varias canciones publicadas en Zamrud
+**Cuándo:** lunes, miércoles, viernes — 5:30-6:00am, cerrando el bloque ZEN de la mañana
 **Próximos pasos:**
 
 ## Idea futura: canciones multilingües
