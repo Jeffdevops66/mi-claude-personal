@@ -1,17 +1,18 @@
 ---
-tags: [ham, work]
+tags: [ham, work, proyecto]
 rama: HAM
-estado: por-crear
+estado: hecho
+tipo: proyecto
 cssclasses:
   - ham
 ---
 
 # 📅 Sensi Calendar
 
-Calendario que debo crear: ciertos días de la semana para revisar HubSpot, otro día Zapier, otro día otra cosa. La idea es estructurar tan bien mis funciones en Sensi que todo sea automático — para poder invertir más tiempo en [[CEO - Indice|CEO / Zamrud]], mi proyecto de vida.
+✅ Hecho — pasó a ser el calendario semanal completo de las 4 ramas: [[Calendario Semanal 2026]] (vive en `00-Indice/`). Ahí está el día que le toca a cada herramienta de Sensi (HubSpot, Zapier, WooCommerce, catálogo) dentro del bloque HAM.
 
 **Objetivo:** crear un calendario semanal de revisión por herramienta
-**Estado actual:** por crear
-**Próximos pasos:**
+**Estado actual:** hecho (13-sep-2026)
+**Próximos pasos:** ajustar el calendario si algún bloque no funciona en la práctica
 
 ⬅️ Volver a [[HAM - Indice]]

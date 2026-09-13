@@ -1,7 +1,8 @@
 ---
-tags: [zen, keni, sport]
+tags: [zen, keni, sport, habito]
 rama: ZEN
 estado: activo
+tipo: habito
 cssclasses:
   - zen
 ---

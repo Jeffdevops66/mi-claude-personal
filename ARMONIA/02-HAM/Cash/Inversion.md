@@ -1,7 +1,8 @@
 ---
-tags: [ham, cash]
+tags: [ham, cash, habito]
 rama: HAM
 estado: pausado
+tipo: habito
 cssclasses:
   - ham
 ---

@@ -1,7 +1,8 @@
 ---
-tags: [ceo, zamrud, contenido]
+tags: [ceo, zamrud, contenido, habito]
 rama: CEO
 estado: activo
+tipo: habito
 cssclasses:
   - ceo
 ---

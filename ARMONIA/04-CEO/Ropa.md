@@ -1,7 +1,8 @@
 ---
-tags: [ceo, zamrud, producto]
+tags: [ceo, zamrud, producto, proyecto]
 rama: CEO
 estado: activo
+tipo: proyecto
 cssclasses:
   - ceo
 ---

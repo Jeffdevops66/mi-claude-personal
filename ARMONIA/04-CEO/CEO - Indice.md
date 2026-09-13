@@ -10,10 +10,11 @@ cssclasses:
 CEO es todo lo que tiene que ver con Zamrud: mi rol como director de ese negocio.
 
 ## Cash y Legal
-- [[Cash]]
-- [[Legal]]
+- [[Cash]] — hábito
+- [[Legal]] — proyecto
+- [[Romero Vega SAS]] — nuevo 2026, proyecto: holding dueño de equipos/cámaras/vehículos
 
-## Contenido
+## Contenido — hábitos
 Tipo de contenido que quiero para Zamrud:
 - [[Shorts]]
 - [[Faceless]]

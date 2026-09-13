@@ -1,7 +1,8 @@
 ---
-tags: [tai, idioma]
+tags: [tai, idioma, habito]
 rama: TAI
 estado: activo
+tipo: habito
 cssclasses:
   - tai
 ---

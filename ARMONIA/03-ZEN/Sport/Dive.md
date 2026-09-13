@@ -1,7 +1,8 @@
 ---
-tags: [zen, keni, sport]
+tags: [zen, keni, sport, proyecto]
 rama: ZEN
-estado: activo
+estado: pausado
+tipo: proyecto
 cssclasses:
   - zen
 ---

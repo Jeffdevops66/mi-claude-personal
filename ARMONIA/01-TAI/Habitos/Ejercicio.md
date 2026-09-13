@@ -2,6 +2,7 @@
 tags: [tai, habito, ejercicio]
 rama: TAI
 estado: activo
+tipo: habito
 cssclasses:
   - tai
 ---

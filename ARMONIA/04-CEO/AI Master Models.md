@@ -2,6 +2,7 @@
 tags: [ceo, ia, proyecto]
 rama: CEO
 estado: activo
+tipo: proyecto
 cssclasses:
   - ceo
 ---

@@ -2,6 +2,7 @@
 tags: [tai, habito, meditacion]
 rama: TAI
 estado: activo
+tipo: habito
 cssclasses:
   - tai
 ---

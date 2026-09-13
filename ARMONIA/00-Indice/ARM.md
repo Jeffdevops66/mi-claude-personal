@@ -17,4 +17,7 @@ ARM es armonía: la plenitud de mi proyecto de vida. Las 4 ramas son las áreas 
 ## Diario
 - [[Diario - Indice|📔 Diario]] — el hilo que conecta las 4 ramas día a día
 
+## Calendario
+- [[Calendario Semanal 2026|📅 Calendario Semanal 2026]] — cuándo le toca a cada rama en la semana
+
 > Ver [[Supuestos]] — quedan un par de detalles finos por confirmar.

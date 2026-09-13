@@ -1,7 +1,8 @@
 ---
-tags: [zen, viaje]
+tags: [zen, viaje, proyecto]
 rama: ZEN
 estado: activo
+tipo: proyecto
 cssclasses:
   - zen
 ---

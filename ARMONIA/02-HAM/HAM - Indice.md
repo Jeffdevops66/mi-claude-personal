@@ -9,15 +9,19 @@ cssclasses:
 
 HAM es Sensi, mi negocio (Sensi Home). Es mi único ingreso por ahora — con esa plata financio TAI, ZEN y CEO mientras se monetizan (ver [[Seguimiento]]).
 
-## Work (herramientas y operación)
-Todas activas — importantes para continuar en mi trabajo actual en Sensi.
+## Work (herramientas y operación) — hábitos
 - [[HubSpot]]
 - [[Zapier]]
 - [[Sensi Catalogo]]
 - [[WooCommerce]]
-- [[Sensi Calendar]] — por crear (calendario de revisión semanal, para liberar tiempo hacia CEO)
+- [[Sensi Calendar]] — ✅ hecho, ver [[Calendario Semanal 2026]]
 
-## Cash (dinero)
+## Proyectos activos
+- [[Sensi Sistema RevOps]] — el reto grande, evaluación 16-sep-2026
+- [[AI Model]] — nuevo 2026, por definir caso de uso
+- [[Kids]] — nuevo 2026, por definir qué es
+
+## Cash (dinero) — hábitos
 - [[Seguimiento]] — débitos e ingresos del negocio
 - [[Jef]] — mis gastos personales (mercado, salidas)
 - [[Inversion]] — pausada
