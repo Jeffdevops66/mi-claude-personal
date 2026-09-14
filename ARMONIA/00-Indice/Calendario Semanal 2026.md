@@ -64,6 +64,11 @@ No le metas nada de TAI/ZEN/CEO encima estos 3 días — foco total en [[Sensi S
 - 👔 CEO: 8h (5h entre semana + 3h sábado)
 - 🎭 ZEN: 8h (5h entre semana + 3h sábado)
 
+## 🖥️ Versión en vivo — Día / Semana / Año
+Este timebox + tu libreta de la semana + tu planeador del año, en un solo artefacto digital: marcas hoy en "Día", ves "Semana" (lunes a sábado), y anotas pendientes futuros en "Año" (con presupuesto si aplica, como hacías con los stickers). Lo que anotas en Año aparece solo en Semana cuando cae esa semana, y en Día cuando llega el día — ya no hay que pasarlo a mano.
+
+👉 **https://claude.ai/code/artifact/5f2fe5af-75b3-44ce-ba90-0a8a6fc0e934**
+
 ## ❓ Aún abierto
 - [[Chino]] y [[Ruso]] no tienen bloque fijo en el timebox — quedan como práctica ocasional hasta que Inglés/Italiano lleguen a nivel conversacional
 - La "app de práctica" del bloque ZEN 5:00-5:15 (lunes/miércoles/viernes) — no quedó definida cuál es
