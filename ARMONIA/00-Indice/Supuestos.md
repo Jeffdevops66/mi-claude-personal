@@ -45,11 +45,15 @@ tags: [supuestos, meta]
 - Premio = monto fijo por posición (P1/P2/P3) — montos todavía sin definir.
 - Primer mes activo: [[Puntos - Septiembre 2026]].
 
+## ✅ Confirmado 14-sep-2026 (AIR / MIND / BODY + versión en vivo)
+- **AIR** = no fumar, **MIND** = no usar mucho el celular, **BODY** = no ser sedentario. Son malos hábitos a eliminar, puntúan al revés: evitarlos suma el punto, caer en ellos no suma.
+- Los montos de premio (P1/P2/P3) quedan sin definir a propósito, por ahora.
+- Se crea una versión interactiva del campeonato (fuera del vault) para marcar los hábitos del día y ver el puntaje moverse en tiempo real.
+
 ## ❓ Todavía por confirmar
 1. Las notas "Done..." de tu celular (ej. "Done CEO Web Zamrud") no las recreé, parecen tareas completadas. Si quieres, las agrego como un log histórico.
 2. Qué app específica usas en el bloque ZEN de 5:00-5:15am (lun/mié/vie).
-3. Qué son exactamente **AIR**, **MIND** y **BODY** (los 3 hábitos nuevos del sistema de puntos) — no tienen nota propia todavía.
-4. Los montos de premio para P1/P2/P3 en [[Sistema de Puntos]].
+3. Los montos de premio para P1/P2/P3 en [[Sistema de Puntos]] (sin apuro, cuando los definas).
 
 Con esto, las 4 ramas ya tienen contenido real. 🎉
 

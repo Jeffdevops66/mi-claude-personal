@@ -9,22 +9,27 @@ cssclasses:
 Cada día es una **carrera**. Cumples hábitos, sumas puntos. Al cerrar el mes, tu puntaje total dice si subiste al podio — y el podio trae premio.
 
 ## 🎯 Los 9 hábitos (1 punto cada uno, sí o no)
-| # | Hábito | Rama |
-|---|---|---|
-| 1 | Madrugar | 💪 TAI |
-| 2 | Ejercicio | 💪 TAI |
-| 3 | ZEN | 🎭 ZEN |
-| 4 | English | 💪 TAI |
-| 5 | CEO | 👔 CEO |
-| 6 | Journaling | 💪 TAI |
-| 7 | AIR | ? |
-| 8 | MIND | ? |
-| 9 | BODY | ? |
+| # | Hábito | Rama | Cómo se gana el punto |
+|---|---|---|---|
+| 1 | Madrugar | 💪 TAI | Lo hiciste ese día |
+| 2 | Ejercicio | 💪 TAI | Lo hiciste ese día |
+| 3 | ZEN | 🎭 ZEN | Lo hiciste ese día |
+| 4 | English | 💪 TAI | Lo hiciste ese día |
+| 5 | CEO | 👔 CEO | Lo hiciste ese día |
+| 6 | Journaling | 💪 TAI | Lo hiciste ese día |
+| 7 | AIR | 💪 TAI (a eliminar) | **NO** fumaste ese día |
+| 8 | MIND | 💪 TAI (a eliminar) | **NO** usaste mucho el celular ese día |
+| 9 | BODY | 💪 TAI (a eliminar) | **NO** estuviste sedentario ese día |
 
-> ❓ AIR, MIND y BODY no tienen nota propia todavía en el vault — dime qué es cada uno exacto (¿respiración / mentalidad / cuidado físico?) y les creo su página, igual que [[Ejercicio]] o [[Meditacion]].
+## ⚠️ AIR, MIND y BODY puntúan al revés
+Son 3 malos hábitos que quieres eliminar (fumar, celular en exceso, sedentarismo). En estos 3, el punto se gana **evitándolos**, no haciéndolos:
+- Si ese día **evitaste** el mal hábito → ✅ 1 punto
+- Si ese día **caíste** en el mal hábito → ❌ 0 puntos
+
+En los otros 6 hábitos (Madrugar, Ejercicio, ZEN, English, CEO, Journaling) es al derecho: hacerlo suma.
 
 ## 🧮 Cómo se puntúa
-- Cada hábito cumplido ese día = **1 punto**. Máximo **9 puntos/día**.
+- Cada hábito cumplido (o evitado, en el caso de AIR/MIND/BODY) ese día = **1 punto**. Máximo **9 puntos/día**.
 - No hay puntos parciales — es sí o no (como confirmaste).
 - El mes completo = tu **puntaje total** = suma de todos los días.
 - Puntaje máximo posible del mes = 9 × (días del mes). Ej. septiembre (30 días) = **270 puntos posibles**.
@@ -48,11 +53,18 @@ Uso porcentaje en vez de número fijo porque los meses no tienen todos los mismo
 | 🥈 P2 | $ _______ |
 | 🥉 P3 | $ _______ |
 
-> Faltan los montos — dime las cifras y las dejo aquí fijas.
+> Todavía sin montos a propósito — los defines cuando quieras, no hay apuro.
 
 ## 📅 Trackers mensuales
 - [[Puntos - Septiembre 2026]] ← mes actual
 
 Cada mes nuevo, duplica [[Plantilla - Mes Puntos]] y cámbiale el nombre.
+
+## 🖥️ Versión en vivo
+Además de esta tabla en el vault, hay una versión interactiva: marcas los 9 hábitos del día con un switch y ves el campeonato moverse en tiempo real (puntos del día, total del mes, % y posición en el podio).
+
+👉 **https://claude.ai/code/artifact/f261dae9-c5b6-4822-8b53-e2993f39a53b**
+
+Lo que marques ahí queda guardado automáticamente (no hace falta copiarlo a mano al vault).
 
 ⬅️ Volver a [[ARM]]

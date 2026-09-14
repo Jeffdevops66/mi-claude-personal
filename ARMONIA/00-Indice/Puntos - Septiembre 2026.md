@@ -8,6 +8,8 @@ cssclasses:
 
 Ver reglas completas en [[Sistema de Puntos]]. 1 = cumplido, 0 = no cumplido. Total del día = suma de la fila (máx 9).
 
+> ⚠️ **AIR, MIND y BODY puntúan al revés** (son malos hábitos a eliminar: fumar, celular, sedentarismo). Ahí 1 = **evitaste** el mal hábito ese día, 0 = caíste en él.
+
 > ⚠️ Del 14 al 16-sep tienes la evaluación de [[Sensi Sistema RevOps]] (ver [[Calendario Semanal 2026]]) — llena estos días igual, con lo que sí alcances a cumplir.
 
 | Día | Madrugar | Ejercicio | ZEN | English | CEO | Journaling | AIR | MIND | BODY | Total día |
