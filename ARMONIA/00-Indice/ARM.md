@@ -20,4 +20,7 @@ ARM es armonía: la plenitud de mi proyecto de vida. Las 4 ramas son las áreas 
 ## Calendario
 - [[Calendario Semanal 2026|📅 Calendario Semanal 2026]] — cuándo le toca a cada rama en la semana
 
+## Puntos
+- [[Sistema de Puntos|🏁 Sistema de Puntos]] — campeonato de hábitos, mes a mes
+
 > Ver [[Supuestos]] — quedan un par de detalles finos por confirmar.

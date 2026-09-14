@@ -38,9 +38,18 @@ tags: [supuestos, meta]
 - [[Journaling]] (17:30-18:00, "DWN/DH" en la libreta) es hábito TAI, y también cumple la función de "Download" que describiste (cerrar el día + traer tareas de mañana) — no hace falta nota aparte en CEO.
 - Chino y Ruso quedan sin bloque fijo por ahora (más adelante, cuando Inglés/Italiano estén listos).
 
+## ✅ Confirmado 14-sep-2026 ([[Sistema de Puntos]] — campeonato de hábitos)
+- 9 hábitos, 1 punto cada uno si se cumple ese día (sí/no, sin puntos parciales). Máximo 9 puntos/día.
+- Los 9: Madrugar, Ejercicio, ZEN, English, CEO, Journaling, AIR, MIND, BODY.
+- Mes = suma de todos los días. Podio por % del puntaje posible del mes (no número fijo, porque los meses no tienen los mismos días): 🥇 P1 ≥90%, 🥈 P2 80-89%, 🥉 P3 70-79%.
+- Premio = monto fijo por posición (P1/P2/P3) — montos todavía sin definir.
+- Primer mes activo: [[Puntos - Septiembre 2026]].
+
 ## ❓ Todavía por confirmar
 1. Las notas "Done..." de tu celular (ej. "Done CEO Web Zamrud") no las recreé, parecen tareas completadas. Si quieres, las agrego como un log histórico.
 2. Qué app específica usas en el bloque ZEN de 5:00-5:15am (lun/mié/vie).
+3. Qué son exactamente **AIR**, **MIND** y **BODY** (los 3 hábitos nuevos del sistema de puntos) — no tienen nota propia todavía.
+4. Los montos de premio para P1/P2/P3 en [[Sistema de Puntos]].
 
 Con esto, las 4 ramas ya tienen contenido real. 🎉
 
