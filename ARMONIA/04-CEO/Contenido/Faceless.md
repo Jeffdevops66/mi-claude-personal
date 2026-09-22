@@ -17,8 +17,10 @@ Contenido faceless (sin mostrar la cara del equipo de Zamrud) — apoyar el arte
 - Pagar a deportistas y artistas callejeros para que moneticen su talento y vivan del arte
 
 **Objetivo:** apoyar el arte colombiano y monetizar el talento de artistas y deportistas callejeros a través de contenido faceless
-**Estado actual:** en planeación — ya hay 4 artistas identificados para arrancar "El Lente de la Gente"
-**Próximos pasos:** contactar a los 4 artistas y grabar el primer clip
+**Estado actual:** en planeación — ya hay 4 artistas identificados para arrancar "El Lente de la Gente". Es uno de los 2 productos que arrancan ventas en CEO (junto con [[AI Master Models]] y la propuesta de valor para artistas de `zamrud-landing/propuesta.html`).
+**Próximos pasos:**
+- [ ] Semana 22-28 sep: contactar a los 4 artistas identificados
+- [ ] Grabar el primer clip
 
 Formato de salida: ver [[Shorts]] (vertical, corto) y contenido horizontal más elaborado (videos musicales, streams).
 

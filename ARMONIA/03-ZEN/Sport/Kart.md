@@ -14,6 +14,6 @@ Ya tengo el certificado. Plan de progresión: simulador → kart de renta → ka
 **Próxima carrera/meta:**
 **Notas:**
 
-Relacionado: [[Ejercicio]] (TAI) — misma energía física, distinto propósito
+Relacionado: [[Ejercicio]] (TAI) — misma energía física, distinto propósito · [[Sim Racing]] — rutina de práctica y progreso en simulador
 
 ⬅️ Volver a [[ZEN - Indice]]

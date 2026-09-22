@@ -14,4 +14,8 @@ La única herramienta de este grupo que uso actualmente para Sensi.
 **Estado actual:** en uso
 **Próximos pasos:**
 
+## Notas relacionadas
+- [[Lifecycle Stages]] — cómo están definidas las etapas de Company/Contact y qué workflows las mueven solas
+- [[Marketing Contacts]] — cuándo un Contact es Marketing vs Non-marketing, y % de automatización de esa etiqueta
+
 ⬅️ Volver a [[HAM - Indice]]

@@ -11,6 +11,10 @@ cssclasses:
 **Frecuencia:** lunes a viernes, misma rutina todos los días — sin día de descanso activo diferenciado (fin de semana libre de KPI)
 **Racha actual:**
 
+## ⚠️ Rodilla (desde 2026-09-22)
+Duele con squat, lunges y wall sit (rutina de las 4:30). Todavía no la ha visto ningún médico ni fisio.
+**Próximo paso:** agendar cita con fisioterapeuta — meta: **jueves 24-sep-2026**. Mientras tanto, si duele, bajar el rango de movimiento en esos 3 ejercicios en vez de forzar.
+
 > Nota: esto es ejercicio como hábito de crecimiento personal (TAI). Es distinto del Sport de Keni ([[ZEN - Indice]]), que es identidad/aventura (skydive, buceo, kart), no rutina diaria.
 
 ## Mañana — activación y movilidad
