@@ -15,7 +15,7 @@
 | 🔴 CRITICAL | 107 (5.6%) |
 | **Accionables (WARNING+CRITICAL)** | **750** |
 
-### % de completado: **241 / 750 = 32.1%** (parcial, sigue en curso)
+### % de completado: **332 / 750 = 44.3%** (parcial, sigue en curso — actualizado tras verificar zona roja)
 
 ---
 
@@ -43,17 +43,18 @@
 
 **Verificación:** las 165 filas de Deals (D2/D3/D4/D6/D10) pasaron primero por `verificador-calidad` antes de escribirse — veredicto **LISTO PARCIAL**: aprobó 146 (136 D3 limpias + D2 + D4 + D6 + D10), dejó fuera las 19 D3 sospechosas. Las 139 de Companies/Contacts (C2/C4/C5/K4) no necesitan ese paso. Cada escritura se verificó con una lectura aparte después de aplicar (regla del 16-jul: nunca confiar solo en "SUCCESS").
 
-### 🔴 RED_ZONE — 134 filas, historial de falsos positivos muy alto (verificación en vivo lanzada, en curso)
-| Regla | Qué es | Filas |
-|---|---|---:|
-| C6b | Posible company duplicada | 47 |
-| C6 | Company duplicada exacta | 1 |
-| K7b | Posible contact duplicado | 52 |
-| D8 | Deal fantasma (SQ→SO no borrada) | 31 |
-| D9 | Deal faltante en HubSpot | 2 |
-| D5 | Near-match de company asociada | 1 |
+### 🔴 RED_ZONE — 134 filas, verificado en vivo — **91/134 resueltas**
+| Regla | Filas | Resueltas | Cómo |
+|---|---:|---:|---|
+| C6+C6b | 48 | 40 | 1 duplicado real → `ELIMINAR-` (ONE HOME DESIGN, mismo teléfono y dominio); 37 falso positivo; 2 obsoletas (ya no existen) |
+| K7b | 52 | 48 | 7 duplicados reales → `ELIMINAR-` (email/teléfono/dominio exacto); 40 falso positivo; 1 obsoleta |
+| D9 | 2 | 2 | Falso positivo confirmado (4ª vez este mismo bug del script) — los 2 deals SÍ existen |
+| D5 | 1 | 1 | Ya estaba bien asociado — "Shadai Carpenter" ni siquiera existe como company |
+| D8 | 31 | 0 | Sin acceso a inFlow en esa sesión — las 31 quedaron pendientes, no se asumió nada |
 
-Con la muestra más grande medida hasta hoy (audit del 20-ago-2026), K7b y C6b dieron ~97% falso positivo — por eso ninguna se toca sin verificar teléfono/email/dominio real primero.
+Quedan **12 pendientes** (8 companies + 4 contacts, datos insuficientes para confirmar) + **31 D8** (necesitan buscarse en inFlow). 8 companies/contacts quedaron marcadas `ELIMINAR-` — Jeffrey debe fusionarlas por la UI de HubSpot (nunca por API) y borrar después el registro `ELIMINAR-`.
+
+Con la muestra más grande medida hasta hoy (audit del 20-ago-2026), K7b y C6b habían dado ~97% falso positivo — hoy bajó porque esta corrida sí traía email para cruzar, no solo teléfono.
 
 ### ✋ MANUAL — 312 filas, requieren decisión humana (sin tocar)
 | Regla | Qué es | Filas |
