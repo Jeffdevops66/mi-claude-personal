@@ -31,14 +31,30 @@ Los mejores compradores en HubSpot (ej. AH Kitchen Bathroom & Countertops, PG Ki
 
 ## 📋 Datos obligatorios para que cuente como VÁLIDA
 **Company:** nombre, teléfono, website, ciudad REAL, `state` con una de las 6 regiones exactas (sin espacios extra): "South Florida" (Miami-Dade, Broward, Monroe, Palm Beach), "Central Florida" (Martin, St. Lucie, Okeechobee, Indian River, Brevard, Osceola, Orange, Seminole), "Southwest Florida" (Collier, Lee, Charlotte), "Gulf Coast" (DeSoto, Hardee, Manatee, Polk, Hillsborough, Pinellas), "North Florida", "Other". Sarasota/Hendry = "Other". Nunca "FL".
-**Contact (persona):** nombre y apellido reales, **correo Y teléfono** (los dos), asociado a la Company.
+**Contact (persona):** nombre y apellido reales, **correo Y teléfono** (los dos, para poder entrar a secuencia de email), asociado a la Company. Debe ser el **dueño o gerente** (quien decide/compra). Nunca info@, contact@ ni correos genéricos: si es lo único que hay, va a 🟡. Correo verificado (Apollo lo marca válido o coincide con el dominio de la empresa).
 **Owner:** Jeffrey Romero (`hubspot_owner_id` = 89633908).
 **Descripción:** mismo formato de la tanda anterior: "Prospecto Pro Program SensiHome".
 Nunca inventes datos. Si no lo encuentras, va a "incompleta".
 
+## 🌐 Verificación en web y redes (OBLIGATORIA por cada empresa)
+Revisa TODO esto antes de pasar una empresa a 🟢:
+1. **Sitio web:** que cargue, sea de esa empresa, muestre servicios (cocinas/baños/closets) y coincida ciudad y teléfono.
+2. **Instagram:** que exista, con fotos de proyectos reales, y fecha del último post.
+3. **Facebook:** página activa, reseñas y calificación, teléfono/dirección y a veces el nombre del dueño.
+4. Cruza los datos entre web, Instagram, Facebook y Apollo: teléfono, dirección y dueño deben coincidir. Si se contradicen, 🟡 y anótalo.
+5. Guarda el link del sitio en `website`, el de Facebook en `facebook_company_page`, y el de Instagram en la descripción.
+
+## ⭐ Puntaje de calidad del lead (1 a 10)
+Suma puntos por: portafolio con **fotos reales de cocinas/baños** (+2), **actividad reciente** (post en los últimos 60 días, +2), **reseñas buenas** (4+ estrellas con varias reseñas, +2), **menciona gabinetes/countertops/granito** (+2), contacto dueño/gerente con correo+teléfono verificados (+1), tamaño pequeño-mediano local claro (+1).
+- 8-10 = 🟢 prioridad alta · 6-7 = 🟢 normal · menos de 6 = 🟡 (no sube salvo que Jeffrey lo pida).
+Prioriza siempre por puntaje al llenar la meta.
+
+## 📝 Descripción de la Company (formato fijo)
+`Prospecto Pro Program SensiHome | Puntaje: X/10 (razón corta) | Especialidad: cocinas/baños/closets | Tamaño est.: N personas | Instagram: link | Facebook: link | Licencia DBPR: # (si hay) | Fuentes: Apollo/Web/Sunbiz | Fecha: AAAA-MM-DD`
+
 ## 🔎 Fuentes (en este orden)
 1. Apollo (cuenta de Jeffrey en Chrome, vía Claude in Chrome) → personas, correo, teléfono.
-2. Sitio oficial de la empresa, Google Maps, BBB.
+2. Sitio oficial de la empresa, Instagram, Facebook, Google Maps, BBB.
 3. Sunbiz (search.sunbiz.org; usa "and" en vez de "&") y DBPR (myfloridalicense.com) para confirmar dueño/entidad.
 4. LinkedIn solo como último recurso (riesgo de homónimos). Si la fuente es ambigua, NO adivines la identidad: déjalo pendiente.
 
