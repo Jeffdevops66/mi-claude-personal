@@ -17,10 +17,16 @@ ARM es armonía: la plenitud de mi proyecto de vida. Las 4 ramas son las áreas 
 ## Diario
 - [[Diario - Indice|📔 Diario]] — el hilo que conecta las 4 ramas día a día
 
-## 🗓️ Time box y revisión semanal (desde 2026-09-22)
-Las 4 ramas ya tienen tiempo fijo todos los días — ver el artefacto **Calendario Semanal ARM** (hora por hora) y **Mapa ARM 2026** (vista Día/Semana/Año, con pendientes). HAM 30h/sem, TAI 15h/sem, CEO 8h/sem, ZEN 8h/sem.
+## 🧰 Herramientas
+- [[Herramientas ARM]] — Timebox, Cash Flow y Brain Dump: un solo diseño, colores de las 4 áreas y cómo alimentan a Obsidian
 
-**Revisión semanal:** domingo, 15 minutos — qué se cumplió esta semana en cada rama y qué pasa a la siguiente. Se hace sobre las tareas anotadas en Mapa ARM y esta nota.
+## 🗓️ Time box y revisión semanal (desde 2026-09-22)
+Las 4 ramas ya tienen tiempo fijo todos los días — ver el artefacto **[Timebox ARM](https://claude.ai/artifact/NUdKcE8seXMdYvF8E19xgP)**:
+- **Día:** checklist tipo libreta (hábitos + tareas de proyectos), cada cuadro se llena con OK al completarlo.
+- **Semana:** hábitos fijos + espacios libres donde se acomodan los proyectos (se replican en Día).
+- **Mes:** seguimiento de hábitos (AM, ZEN, ENG, HAM, CEO, SEG, AIR, MIND, BODY) con gráfico.
+
+**Revisión semanal:** domingo, 15 minutos — qué se cumplió esta semana en cada rama y qué pasa a la siguiente. Se hace mirando la pestaña Mes de Timebox ARM y esta nota.
 
 **Prioridad #1 de las próximas semanas (una por rama, igual de importantes):**
 - 💪 TAI: resolver el dolor de rodilla (agendar fisio)
