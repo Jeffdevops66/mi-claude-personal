@@ -18,10 +18,10 @@ ARM es armonía: la plenitud de mi proyecto de vida. Las 4 ramas son las áreas 
 - [[Diario - Indice|📔 Diario]] — el hilo que conecta las 4 ramas día a día
 
 ## 🧰 Herramientas
-- [[Herramientas ARM]] — Timebox, Cash Flow y Brain Dump: un solo diseño, colores de las 4 áreas y cómo alimentan a Obsidian
+- [[Herramientas ARM]] — **Mi ARM**: Timebox, Cash y Brain en un solo link con pestañas, colores de las 4 áreas y cómo alimentan a Obsidian
 
 ## 🗓️ Time box y revisión semanal (desde 2026-09-22)
-Las 4 ramas ya tienen tiempo fijo todos los días — ver el artefacto **[Timebox ARM](https://claude.ai/artifact/NUdKcE8seXMdYvF8E19xgP)**:
+Las 4 ramas ya tienen tiempo fijo todos los días — ver la pestaña **Timebox** de **[Mi ARM](https://claude.ai/artifact/DvAouD9ThdRsQFiaSFBdAP)**:
 - **Día:** checklist tipo libreta (hábitos + tareas de proyectos), cada cuadro se llena con OK al completarlo.
 - **Semana:** hábitos fijos + espacios libres donde se acomodan los proyectos (se replican en Día).
 - **Mes:** seguimiento de hábitos (AM, ZEN, ENG, HAM, CEO, SEG, AIR, MIND, BODY) con gráfico.

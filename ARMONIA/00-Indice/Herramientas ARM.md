@@ -7,12 +7,18 @@ fecha: 2026-09-25
 
 Tres herramientas en el celular que comparten el mismo diseño, los mismos colores y la misma barra de arriba (**ARM · Timebox · Cash · Brain**). Vuelve a [[ARM]].
 
-## Las tres
-| Herramienta | Para qué | Dónde guarda los datos | Enlace |
-|---|---|---|---|
-| ⏱️ **Timebox ARM** | Día (libreta), Semana y Mes de hábitos | En el propio artefacto | [abrir](https://claude.ai/artifact/NUdKcE8seXMdYvF8E19xgP) |
-| 💵 **Cash Flow Jeff** | Ingresos y egresos por cuenta de área, metas, por cobrar y por pagar | Base de datos del artefacto | [abrir](https://claude.ai/artifact/Y7mcynnnCV6RgBfk3wjbbs) |
-| 🧠 **Brain Dump** | Captura rápida de ideas por área, con fecha y estado | Solo en ese celular | [abrir](https://claude.ai/artifact/UKwNENngLRBuaHXksN3Q25) |
+## 📲 Mi ARM: un solo link
+**https://claude.ai/artifact/DvAouD9ThdRsQFiaSFBdAP** (privado, solo para mí)
+
+Las tres herramientas viven en una sola página con pestañas abajo. Todo se guarda en la nube, así que se ve igual en cualquier dispositivo.
+
+| Pestaña | Para qué | Dónde se guarda |
+|---|---|---|
+| ⏱️ **Timebox** | Día (libreta), Semana y Mes de hábitos | colección `timebox` |
+| 💵 **Cash** | Ingresos y egresos por cuenta de área, metas, por cobrar y por pagar | colecciones `transactions`, `proyectos`, `cx` |
+| 🧠 **Brain** | Captura rápida de ideas por área, con fecha y estado | colección `ideas` |
+
+Los artefactos sueltos anteriores (Timebox ARM, Cash Flow Jeff, Brain Dump) ya no se usan: lo que se marque ahí no pasa a Mi ARM.
 
 ## Un solo universo: las 4 áreas
 Mismo color y misma sigla en las tres herramientas.
@@ -33,12 +39,18 @@ Morado = ARM. Turquesa = ingreso o hecho. Rojo = egreso o vencido.
 - El CSS compartido está en `99-Herramientas/arm-sistema-visual.css`, para que una cuarta herramienta nazca con el mismo diseño.
 
 ## Cómo alimentan a Obsidian
-- **Brain Dump →** botón *Copiar todo para Obsidian (.md)*, luego pegar en [[Diario - Indice|Diario]] o en la nota del área.
-- **Timebox Mes →** sirve para la revisión semanal del domingo (ver [[ARM]]).
-- **Cash Flow →** el resumen del mes va a [[Seguimiento]] en HAM (o `Cash` en CEO).
+- **Brain →** botón *Copiar todo para Obsidian (.md)*, luego pegar en [[Diario - Indice|Diario]] o en la nota del área. Claude también puede leer las ideas de la nube y pasarlas a esta bóveda.
+- **Timebox → Mes** sirve para la revisión semanal del domingo (ver [[ARM]]).
+- **Cash →** el resumen del mes va a [[Seguimiento]] en HAM (o `Cash` en CEO).
 
 ## Cambios del 2026-09-25
 - Diseño unificado en las tres, con la barra ARM para saltar entre ellas.
 - Cash Flow: las ventanitas de "+ Meta", "+ Nueva" y "Abono" ahora son hojas dentro de la página; borrar tiene *Deshacer*.
 - Brain Dump: una lista a la vez en el celular y las ideas vencidas se marcan en rojo.
 - Timebox: pestañas fijas, texto oscuro sobre los colores de área, columna del día fija en Mes.
+
+## Cambios del 2026-09-26
+- Las tres herramientas se unieron en **Mi ARM**, con pestañas abajo (Timebox, Cash, Brain).
+- Datos migrados a la nube: hábitos de Timebox hasta el 25-sep, 30 movimientos y 3 cuentas por cobrar/pagar de Cash.
+- Brain Dump: las ideas viejas estaban solo en el celular. Para pasarlas: en el Brain Dump viejo tocar *Copiar respaldo (JSON)*, y en Mi ARM > Brain > *Traer ideas del Brain Dump anterior* pegar e Importar.
+- Al usar base de datos, Mi ARM no se puede compartir con "cualquiera con el link".
