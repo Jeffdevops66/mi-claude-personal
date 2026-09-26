@@ -89,3 +89,10 @@ Morado = ARM. Turquesa = ingreso o hecho. Rojo = egreso o vencido.
   2. **Cumplimiento del mes**: porcentaje sobre los días que ya pasaron (los que faltan no lo bajan).
   3. Tracker de hábitos (✓/✗ pequeños, fila OK delgada). Gráfico y tracker se deslizan juntos.
 - **Timebox → Año:** cada día muestra su inicial (L M X J V S D); los domingos (descanso) salen apagados.
+
+## Cambios del 2026-09-26 (final)
+- **Brain: tres botones en cada idea de la Bandeja.**
+  - **Programar:** fecha + hora libre (o *Sin hora*) y va al Timebox (Año, y Semana/Día si tiene hora).
+  - **Ejecutar:** un toque, con fecha de hoy. Si es `cash`, crea el pago o ingreso en Cash; si es tarea o proyecto, queda hecha hoy en Año. La idea sale de la Bandeja y hay *Deshacer*.
+  - **Eliminar:** la borra del todo.
+- Las ideas `cash` funcionan igual que las demás: se pueden programar o ejecutar de una vez.
