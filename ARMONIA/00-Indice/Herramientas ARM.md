@@ -7,7 +7,7 @@ fecha: 2026-09-25
 
 Tres herramientas en el celular que comparten el mismo diseño, los mismos colores y la misma barra de arriba (**ARM · Timebox · Cash · Brain**). Vuelve a [[ARM]].
 
-## 📲 Mi ARM: un solo link
+## 📲 Asistente ARM: un solo link
 **https://claude.ai/artifact/DvAouD9ThdRsQFiaSFBdAP** (privado, solo para mí)
 
 Las tres herramientas viven en una sola página con pestañas abajo. Todo se guarda en la nube, así que se ve igual en cualquier dispositivo.
@@ -18,7 +18,7 @@ Las tres herramientas viven en una sola página con pestañas abajo. Todo se gua
 | 💵 **Cash** | Ingresos y egresos por cuenta de área, metas, por cobrar y por pagar | colecciones `transactions`, `proyectos`, `cx` |
 | 🧠 **Brain** | Solo captura: guardar la idea y verla en la Bandeja | colección `ideas` |
 
-Los artefactos sueltos anteriores (Timebox ARM, Cash Flow Jeff, Brain Dump) ya no se usan: lo que se marque ahí no pasa a Mi ARM.
+Los artefactos sueltos anteriores (Timebox, Cash, Brain y el menú ARM Hub) fueron **borrados** el 2026-09-26. Solo queda Asistente ARM (antes *Mi ARM*).
 
 ## Un solo universo: las 4 áreas
 Mismo color y misma sigla en las tres herramientas.
@@ -96,3 +96,5 @@ Morado = ARM. Turquesa = ingreso o hecho. Rojo = egreso o vencido.
   - **Ejecutar:** un toque, con fecha de hoy. Si es `cash`, crea el pago o ingreso en Cash; si es tarea o proyecto, queda hecha hoy en Año. La idea sale de la Bandeja y hay *Deshacer*.
   - **Eliminar:** la borra del todo.
 - Las ideas `cash` funcionan igual que las demás: se pueden programar o ejecutar de una vez.
+
+- La app se renombró **Asistente ARM** (mismo link) y se borraron los artefactos viejos.
