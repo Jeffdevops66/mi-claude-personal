@@ -49,8 +49,25 @@ Morado = ARM. Turquesa = ingreso o hecho. Rojo = egreso o vencido.
 - Brain Dump: una lista a la vez en el celular y las ideas vencidas se marcan en rojo.
 - Timebox: pestañas fijas, texto oscuro sobre los colores de área, columna del día fija en Mes.
 
+## 🔗 Cómo se conectan las tres (desde 2026-09-26)
+**Brain → Semana → Día:** al programar una idea en Brain (fecha + una hora libre de 1 h) aparece como tarea en la Semana y, cuando llega el día, en el Día. No pisa hábitos ni otras tareas.
+- Marcar las casillas de la tarea en el Día → la idea pasa a **Ejecutada**.
+- **Ejecutar** en Brain → la tarea queda marcada en el Día.
+- Borrar la tarea en Semana o Día → la idea vuelve a **Bandeja** (hay *Deshacer*).
+
+**Brain → Cash (ideas de pago):** un título que empieza con `cash` es un pago.
+- `cash 55 mil`, `cash 55k`, `cash 55.000`, `cash 1,5 millones` → monto. `cash +200 mil` → ingreso.
+- El área elegida arriba (TAI, ZEN, HAM, CEO) es la **cuenta**; la descripción es la del movimiento.
+- Al **ejecutar** la idea se crea el movimiento en Cash con la **fecha programada**.
+- Si la idea se reabre o se desmarca, el movimiento se borra. Si se borra la idea ya ejecutada, el movimiento se queda.
+
+**Cash:** el resumen de meses quedó al fondo; arriba van Balance, Ingresos, Egresos y Por cuenta.
+
 ## Cambios del 2026-09-26
 - Las tres herramientas se unieron en **Mi ARM**, con pestañas abajo (Timebox, Cash, Brain).
 - Datos migrados a la nube: hábitos de Timebox hasta el 25-sep, 30 movimientos y 3 cuentas por cobrar/pagar de Cash.
 - Brain Dump: las ideas viejas estaban solo en el celular. Para pasarlas: en el Brain Dump viejo tocar *Copiar respaldo (JSON)*, y en Mi ARM > Brain > *Traer ideas del Brain Dump anterior* pegar e Importar.
 - Al usar base de datos, Mi ARM no se puede compartir con "cualquiera con el link".
+- Brain → Semana → Día sincronizados (arreglado un fallo que impedía guardar la tarea).
+- Ideas `cash ...` que registran el pago en Cash al ejecutarse.
+- Cash: meses al fondo.
