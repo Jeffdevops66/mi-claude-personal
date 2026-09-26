@@ -80,5 +80,12 @@ Morado = ARM. Turquesa = ingreso o hecho. Rojo = egreso o vencido.
   - También se puede elegir una idea de la Bandeja ("De tu Bandeja").
   - *Listo* marca la idea como hecha (si es `cash`, crea el movimiento en Cash). La ✕ la devuelve a la Bandeja.
 - **Timebox → Mes (acostado):** arriba el gráfico del % de hábitos cumplidos por día; abajo cada hábito es una fila y los días 1–31 van en columnas, con ✓/✗ y cuántos días va bien o mal.
-- **Brain simplificado:** ya no tiene Programada ni Ejecutada (eso vive en los calendarios). Solo guardar la idea y la Bandeja; se programa desde Año.
+- **Brain simplificado:** ya no tiene Programada ni Ejecutada (eso vive en los calendarios). Solo guardar la idea y la Bandeja; se programa desde Año. Se quitaron *Copiar para Obsidian* e *Importar del Brain anterior* (no funcionaban).
 - Flujo: **idea en Brain → se programa en Año → se replica en Semana y Día → Listo = queda hecha.**
+
+## Cambios del 2026-09-26 (noche)
+- **Timebox → Mes**, de arriba abajo:
+  1. Gráfico de puntos grande: % de hábitos cumplidos cada día (0 a 100%).
+  2. **Cumplimiento del mes**: porcentaje sobre los días que ya pasaron (los que faltan no lo bajan).
+  3. Tracker de hábitos (✓/✗ pequeños, fila OK delgada). Gráfico y tracker se deslizan juntos.
+- **Timebox → Año:** cada día muestra su inicial (L M X J V S D); los domingos (descanso) salen apagados.
