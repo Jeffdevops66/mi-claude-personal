@@ -14,9 +14,9 @@ Las tres herramientas viven en una sola página con pestañas abajo. Todo se gua
 
 | Pestaña | Para qué | Dónde se guarda |
 |---|---|---|
-| ⏱️ **Timebox** | Día (libreta), Semana y Mes de hábitos | colección `timebox` |
+| ⏱️ **Timebox** | Día (libreta), Semana, Mes (hábitos) y Año (pagos y proyectos) | colección `timebox` |
 | 💵 **Cash** | Ingresos y egresos por cuenta de área, metas, por cobrar y por pagar | colecciones `transactions`, `proyectos`, `cx` |
-| 🧠 **Brain** | Captura rápida de ideas por área, con fecha y estado | colección `ideas` |
+| 🧠 **Brain** | Solo captura: guardar la idea y verla en la Bandeja | colección `ideas` |
 
 Los artefactos sueltos anteriores (Timebox ARM, Cash Flow Jeff, Brain Dump) ya no se usan: lo que se marque ahí no pasa a Mi ARM.
 
@@ -33,9 +33,9 @@ Mismo color y misma sigla en las tres herramientas.
 Morado = ARM. Turquesa = ingreso o hecho. Rojo = egreso o vencido.
 
 ## Reglas de diseño
-- **Letras:** Fraunces (títulos y números grandes), IBM Plex Sans (texto), IBM Plex Mono (etiquetas y datos).
+- **Letra:** una sola, Inter, en todo. Modo oscuro morado-negro pensado para el celular.
 - **Celular primero:** botones de 44 px, modo claro y oscuro, hoja que sube desde abajo para agregar algo.
-- **Sin emojis** dentro de las herramientas: cada área se marca con su punto de color.
+- **Sin emojis** dentro de las herramientas: iconos de línea generales y cada área con su punto de color.
 - El CSS compartido está en `99-Herramientas/arm-sistema-visual.css`, para que una cuarta herramienta nazca con el mismo diseño.
 
 ## Cómo alimentan a Obsidian
@@ -71,3 +71,14 @@ Morado = ARM. Turquesa = ingreso o hecho. Rojo = egreso o vencido.
 - Brain → Semana → Día sincronizados (arreglado un fallo que impedía guardar la tarea).
 - Ideas `cash ...` que registran el pago en Cash al ejecutarse.
 - Cash: meses al fondo.
+
+## Cambios del 2026-09-26 (tarde)
+- **Tipografía e iconos:** todo en Inter, modo oscuro más profundo, textos de mínimo 10 px, iconos de línea.
+- **Timebox → Año (nuevo):** vista de 3 meses (cada mes una fila de días 1–31, como el cuaderno) o de todo el año con el botón *3 meses / Año*.
+  - Arriba, el botón *Agregar pago o proyecto*; abajo, los **pendientes de todo el año** agrupados por mes, con la suma de pagos pendientes.
+  - Al agregar se elige área, fecha y una hora libre o *Sin hora*. Con hora, aparece también en Semana y Día. Sin hora, solo en Año.
+  - También se puede elegir una idea de la Bandeja ("De tu Bandeja").
+  - *Listo* marca la idea como hecha (si es `cash`, crea el movimiento en Cash). La ✕ la devuelve a la Bandeja.
+- **Timebox → Mes (acostado):** arriba el gráfico del % de hábitos cumplidos por día; abajo cada hábito es una fila y los días 1–31 van en columnas, con ✓/✗ y cuántos días va bien o mal.
+- **Brain simplificado:** ya no tiene Programada ni Ejecutada (eso vive en los calendarios). Solo guardar la idea y la Bandeja; se programa desde Año.
+- Flujo: **idea en Brain → se programa en Año → se replica en Semana y Día → Listo = queda hecha.**
